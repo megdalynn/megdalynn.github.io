@@ -1,5 +1,3 @@
-# Megdalynn Fisher
-
 ## PhD Student | Indiana University | megsfish@iu.edu
 
 ## Bio
