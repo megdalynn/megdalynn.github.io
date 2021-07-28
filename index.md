@@ -21,7 +21,7 @@ BS - Utah Valley University (2014 - 2017) [^3]
 - Python
 
 ### Teaching
-2021 Fall SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)
+2021 Fall SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
 TA - 2021 Summer SPEA-H 526 Healthcare Finance (3 CR)
 
 ### Service
