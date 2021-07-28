@@ -1,7 +1,3 @@
-# Megdalynn Fisher
-
-## PhD Student | Indiana University | megsfish@iu.edu
-
 ## Bio
 Third year PhD student in the O'Neill School of Public and Environmental Affairs  
 Rumsfeld Foundation Fellow  
