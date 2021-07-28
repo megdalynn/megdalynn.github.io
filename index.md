@@ -1,5 +1,3 @@
-# Megdalynn Fisher
-
 ## Bio
 Third year PhD student in the O'Neill School of Public and Environmental Affairs  
 Rumsfeld Foundation Fellow  
