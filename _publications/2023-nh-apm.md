@@ -1,7 +1,7 @@
 ---
 title: "Nursing Home Use of Antipsychotics: Does Public Reporting Incentivize Gaming?"
 collection: publications
-permalink: /publication/2023-nh_apm
+permalink: /publication/2023-nh-apm
 excerpt: 'The number of nursing home residents with schizophrenia has increased due to their exemption from the requirement for antipsychotic medication quality reporting. Since public reporting incentivizes either more accurate diagnosis or upcoding, we examine these effects at the reporting threshold based on number of residents in the facility.'
 date: 2023
 venue: 'forthcoming'
