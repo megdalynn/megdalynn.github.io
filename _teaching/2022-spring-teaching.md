@@ -7,7 +7,3 @@ venue: "Indiana University, O'Neill School of Public and Environmental Affairs"
 date: 2022-01-11
 location: "Bloomington, Indiana"
 ---
-
-
-### Instructor of record
-2022 Spring SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
