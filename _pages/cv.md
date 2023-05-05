@@ -109,7 +109,7 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
 # Service and leadership  
   
 #### Health Policy Workshop, Student Coordinator, 8/2020 - present  
-    - Participated in all phases of workshop preparation and management  
+  - Participated in all phases of workshop preparation and management  
 #### O'Neill PhD Student Association President, Executive Board Member 2020 - present  
   - Planned, organized, and conducted the annual student conference (expected, March 2021) and program social activities  
   - Represented student interests while working with program and school administration to revise policies (lab and equipment usage, student fees and disbursements, use of GRE scores in admissions, etc.). Special focus on supporting students throughout the COVID-19 pandemic.  
