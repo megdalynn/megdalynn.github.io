@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Contemporary Economic Issues in Public Affairs, SPEA-V202"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-1
