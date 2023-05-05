@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+# Education  
 ### Ph.D. PUBLIC AFFAIRS (2019 - 2024 expected)  
-  O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN  
-  [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
+    O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN  
+    [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
   * Policy Analysis Major  
   * Public Finance Minor  
 <br/><br/>
@@ -25,7 +25,9 @@ redirect_from:
 ### B.S. Economics (2014 - 2017)  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
 <br/><br/>
-# Work experience
+
+# Work experience  
+
 ##### ASSOCIATE INSTRUCTOR	8/2021 – PRESENT  
   Indiana University, Bloomington, IN  
   - Designed and taught sophomore level contemporary economics for public affairs.  
@@ -63,27 +65,27 @@ redirect_from:
   - Published and distributed the school’s newsletter as part of a two-person team.
   - Increased readership by 24% and advertising accounts by 50%.
 
-# Publications
+# Publications  
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Talks
+# Talks  
 
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-# Teaching
+# Teaching  
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-# Service and leadership
+# Service and leadership  
 
-##### Health Policy Workshop, Student Coordinator, 8/2020 - present  
+  ##### Health Policy Workshop, Student Coordinator, 8/2020 - present  
   - Participated in all phases of workshop preparation and management  
 ##### O'Neill PhD Student Association President, Executive Board Member 2020 - present  
   - Planned, organized, and conducted the annual student conference (expected, March 2021) and program social activities  
