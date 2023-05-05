@@ -2,7 +2,7 @@
 title: "Contemporary Economic Issues in Public Affairs, SPEA-V202"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-fall-teaching-1
+permalink: /teaching/2022-fall-teaching
 venue: "Indiana University, O'Neill School of Public and Environmental Affairs"
 date: 2022-08-13
 location: "Bloomington, Indiana"
