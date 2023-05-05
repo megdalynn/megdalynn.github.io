@@ -1,5 +1,5 @@
 ---
-title: End of Life Inpatient Spending and Hospital Advertising
+title: "End of Life Inpatient Spending and Hospital Advertising"
 authors:
   - Seth Freedman
   - Victoria Perez
