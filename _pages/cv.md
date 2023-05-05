@@ -29,39 +29,39 @@ redirect_from:
 # Work experience  
 
 ASSOCIATE INSTRUCTOR	8/2021 – PRESENT
-####  Indiana University, Bloomington, IN  
+####    Indiana University, Bloomington, IN  
   - Designed and taught sophomore level contemporary economics for public affairs.  
 
 RESEARCH ASSISTANT	8/2019 – PRESENT
-####  Indiana University, Bloomington, IN  
+####    Indiana University, Bloomington, IN  
   - Researched, coded, cleaned, and analyzed data regarding nursing home quality and services, qualitative patient interviews with matched electronic healthcare records, hospital municipal bond issuance, hospital quality, hospital advertising, Medicare Fraud Control Units, Occupational Employment Statistics, Health and Retirement Study, and Section 340B “Drug Pricing Program.”  
 
 DATA ANALYST	5/2018 – 8/2019  
-####  Comagine Health, Murray, UT  
+####    Comagine Health, Murray, UT  
   - Cleaned, analyzed, and utilized data to produce actionable reports supporting the Quality Payment Program, Total Cost of Care, and Health Innovation Improvement Network.  
   - Performed and interpreted statistical analysis, creating data visualizations.
   - Researched and proposed analysis techniques for public transparency objectives.
   - Designed automated reports using Tableau, Excel, Access, SAS, and R Studio.
 
 TEACHING ASSISTANT	1/2018 – 5/2019  
-####  BYU Economics for Public Mangers, Healthcare Executive Lecture Series, Healthcare Service Delivery, Provo, UT  
+####    BYU Economics for Public Mangers, Healthcare Executive Lecture Series, Healthcare Service Delivery, Provo, UT  
   - Conducted weekly labs for roughly ninety graduate students, providing individual and small group tutoring. Provided visiting arrangements for more than forty guest speakers.  
 
 SUPPLEMENTAL INSTRUCTOR	1/2017 – 5/2017  
-####  UVU Managerial Statistics, Orem, UT  
+####    UVU Managerial Statistics, Orem, UT  
   - Recruited by the Director of Academic Tutoring at UVU to lead three student study sessions per week in managerial statistics for Spring semester 2017.  
 
 BOOKKEEPER  
-####  Quickbooks Bookkeeping, Spanish Fork, UT	8/2012 – 8/2017  
+####    Quickbooks Bookkeeping, Spanish Fork, UT	8/2012 – 8/2017  
   - Accessed and organized information from various sources to provide monthly and annual financial statements as a self-employed bookkeeper.  
   - Reduced bookkeeping time by 40% during exceptional company growth (revenues, assets, and cash flows increasing roughly 300%).  
 
 OFFICE MANAGER	5/2012 – 8/2013  
-#### Anderson Wood Law, Salt Lake City, UT  
+####    Anderson Wood Law, Salt Lake City, UT  
   - Responsible for creating invoices, billing clients, filing documents, bookkeeping, and providing customer service.  
 
 CO-EDITOR, COLUMNIST	1/2008 – 8/2008  
-#### Ross University School of Medicine Student Newsletter, Commonwealth of Dominica	 
+####    Ross University School of Medicine Student Newsletter, Commonwealth of Dominica	 
   - Published and distributed the school’s newsletter as part of a two-person team.
   - Increased readership by 24% and advertising accounts by 50%.
   
@@ -86,7 +86,7 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
 # Service and leadership  
   
 #### Health Policy Workshop, Student Coordinator, 8/2020 - present  
-  - Participated in all phases of workshop preparation and management  
+    - Participated in all phases of workshop preparation and management  
 #### O'Neill PhD Student Association President, Executive Board Member 2020 - present  
   - Planned, organized, and conducted the annual student conference (expected, March 2021) and program social activities  
   - Represented student interests while working with program and school administration to revise policies (lab and equipment usage, student fees and disbursements, use of GRE scores in admissions, etc.). Special focus on supporting students throughout the COVID-19 pandemic.  
