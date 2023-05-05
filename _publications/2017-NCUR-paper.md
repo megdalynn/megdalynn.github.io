@@ -8,8 +8,8 @@ venue: 'NCUR Proceedings'
 paperurl: ''
 citation: 'Fisher, Megdalynn. (2017). &quot;Rising Food Prices: The Case of Childhood Poverty in a Developed Economy.&quot; <i>NCUR Proceedings</i>.'
 ---
-This paper examines the relationship between rising global food prices and childhoos poverty in Utah.  
+This paper examines the relationship between rising global food prices and childhood poverty in Utah.  
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<!--- [Download paper here](http://academicpages.github.io/files/paper1.pdf) --->
 
 Recommended citation: Fisher, Megdalynn. (2017). &quot;Rising Food Prices: The Case of Childhood Poverty in a Developed Economy.&quot; <i>NCUR Proceedings</i>.
