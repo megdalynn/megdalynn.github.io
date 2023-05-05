@@ -1,7 +1,7 @@
 ---
 title: "Public Reporting of Nursing Home Antipsychotic Use: Changes in the Reporting of Exclusionary Diagnoses?"
 collection: talks
-type: "Talks"
+type: "Talk"
 permalink: /talks/2023-nh-apm-talk
 venue: "O'Neill Ph.D. Student Association Annual Student Research Conference"
 date: 2023-02-17
