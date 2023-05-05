@@ -8,14 +8,15 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+\
 # Education
-======
+\
 Ph.D. PUBLIC AFFAIRS (2019 - 2024 expected)  
 O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN
 [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
 * Policy Analysis Major
 * Public Finance Minor
+\
 MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
 Marriott School of Business, Brigham Young University (BYU), Provo, UT 
 * Information Systems Minor
@@ -23,15 +24,17 @@ Marriott School of Business, Brigham Young University (BYU), Provo, UT
 * Healthcare Field Minor Emphasis
 B.S. Economics (2014 - 2017)  
 Woodbury School of Business, Utah Valley University (UVU), Orem, UT
-
+\
 # Work experience
-======
+\
 ASSOCIATE INSTRUCTOR	8/2021 – PRESENT  
 Indiana University, Bloomington, IN  
 * Designed and taught sophomore level contemporary economics for public affairs.  
+\
 RESEARCH ASSISTANT	8/2019 – PRESENT  
 Indiana University, Bloomington, IN  
 * Researched, coded, cleaned, and analyzed data regarding nursing home quality and services, qualitative patient interviews with matched electronic healthcare records, hospital municipal bond issuance, hospital quality, hospital advertising, Medicare Fraud Control Units, Occupational Employment Statistics, Health and Retirement Study, and Section 340B “Drug Pricing Program.”  
+\
 DATA ANALYST	5/2018 – 8/2019  
 Comagine Health, Murray, UT  
 * Cleaned, analyzed, and utilized data to produce actionable reports supporting the Quality Payment Program, Total Cost of Care, and Health Innovation Improvement Network.  
@@ -57,25 +60,25 @@ Ross University School of Medicine Student Newsletter, Commonwealth of Dominica
 * Increased readership by 24% and advertising accounts by 50%.
 
 # Publications
-======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 # Talks
-======
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 # Teaching
-======
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 # Service and leadership
-======
+
 Health Policy Workshop, Student Coordinator, 8/2020 - present  
 - Participated in all phases of workshop preparation and management. 
 O'Neill PhD Student Association President, Executive Board Member 2020 - present  
@@ -111,8 +114,8 @@ Board of Directors, New Voice Theater, Alamogordo, New Mexico, 1/2006 – 8/2007
 - Assisted in developing programs to encourage youth involvement in community theater productions and generation of scholarship funds.
 
 # Awards, Honors, and Fellowships
-======
-- Graduate Fellowship, Rumsfeld Foundation, 2019 - 2020
+- Irsay Institute Fellowship, Indiana University, 2023 - 2024
+- Graduate Fellowship, Rumsfeld Foundation, 2019 - 2021
 - Stewart L. Grow Award (BYU)
 - MPA Academic Award (BYU)
 - Healthcare Industry Scholar
@@ -121,9 +124,9 @@ Board of Directors, New Voice Theater, Alamogordo, New Mexico, 1/2006 – 8/2007
 
 
 Professional Memberships
-•	Association for Public Policy Analysis and Management
-•	American Society for Public Administration
-•	Association for Budgeting and Financial Management
-•	American Society of Health Economists 
-•	American Economics Association
-•	American College of Healthcare Executiv
+-	Association for Public Policy Analysis and Management
+-	American Society for Public Administration
+-	Association for Budgeting and Financial Management
+-	American Society of Health Economists 
+-	American Economics Association
+-	American College of Healthcare Executiv
