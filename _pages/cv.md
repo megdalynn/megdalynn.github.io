@@ -28,11 +28,11 @@ redirect_from:
 
 # Work experience  
 
-ASSOCIATE INSTRUCTOR	8/2021 – PRESENT  
+ASSOCIATE INSTRUCTOR	8/2021 – PRESENT
 ####  Indiana University, Bloomington, IN  
   - Designed and taught sophomore level contemporary economics for public affairs.  
 
-RESEARCH ASSISTANT	8/2019 – PRESENT  
+RESEARCH ASSISTANT	8/2019 – PRESENT
 ####  Indiana University, Bloomington, IN  
   - Researched, coded, cleaned, and analyzed data regarding nursing home quality and services, qualitative patient interviews with matched electronic healthcare records, hospital municipal bond issuance, hospital quality, hospital advertising, Medicare Fraud Control Units, Occupational Employment Statistics, Health and Retirement Study, and Section 340B “Drug Pricing Program.”  
 
