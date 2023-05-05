@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Education
-- Ph.D. PUBLIC AFFAIRS (2019 - 2024 expected)  
+## Ph.D. PUBLIC AFFAIRS (2019 - 2024 expected)  
   O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN  
   [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
   * Policy Analysis Major  
@@ -127,7 +127,7 @@ redirect_from:
 - Outstanding Student Award, Finance and Economics (UVU)
 
 
-Professional Memberships
+# Professional Memberships
 -	Association for Public Policy Analysis and Management
 -	American Society for Public Administration
 -	Association for Budgeting and Financial Management
