@@ -15,16 +15,16 @@ redirect_from:
     [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
   * Policy Analysis Major  
   * Public Finance Minor  
-<br/><br/>
+  
 ### MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
   Marriott School of Business, Brigham Young University (BYU), Provo, UT  
   * Information Systems Minor  
   * Program Management Major Emphasis  
   * Healthcare Minor Emphasis  
-<br/><br/>
+  
 ### B.S. Economics (2014 - 2017)  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
-<br/><br/>
+
 
 # Work experience  
 
@@ -64,27 +64,27 @@ redirect_from:
   Ross University School of Medicine Student Newsletter, Commonwealth of Dominica	 
   - Published and distributed the school’s newsletter as part of a two-person team.
   - Increased readership by 24% and advertising accounts by 50%.
-
+  
 # Publications  
-
+  
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+    
 # Talks  
-
+  
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+    
 # Teaching  
-
+  
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+    
 # Service and leadership  
-
+  
 ##### Health Policy Workshop, Student Coordinator, 8/2020 - present  
   - Participated in all phases of workshop preparation and management  
 ##### O'Neill PhD Student Association President, Executive Board Member 2020 - present  
@@ -118,7 +118,7 @@ redirect_from:
   - Partnered with University staff members and volunteers to create and publish a detailed information booklet, roughly four-times the size of previous versions, complete with images, detailed instructions, and advice.  
 ##### Board of Directors, New Voice Theater, Alamogordo, New Mexico, 1/2006 – 8/2007  
   - Assisted in developing programs to encourage youth involvement in community theater productions and generation of scholarship funds.  
-
+  
 # Awards, Honors, and Fellowships
 - Irsay Institute Fellowship, Indiana University, 2023 - 2024
 - Graduate Fellowship, Rumsfeld Foundation, 2019 - 2021
@@ -127,8 +127,7 @@ redirect_from:
 - Healthcare Industry Scholar
 - Summa Cum Laude (UVU)
 - Outstanding Student Award, Finance and Economics (UVU)
-
-
+  
 # Professional Memberships
 -	Association for Public Policy Analysis and Management
 -	American Society for Public Administration
