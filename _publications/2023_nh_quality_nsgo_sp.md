@@ -11,6 +11,6 @@ citation: 'Megdalynn Fisher. (expected). &quot;Is Government Acquisition of Nurs
 
 Do subsidies through Non-State Government Owned nursing facility supplemental payment programs spur government acquisitions and do the subsidies translate to fewer deficiencies and better quality?
 
-[Download paper here](http://academicpages.github.io/files/nh-quality-nsgo-sp.pdf)
+<!--- [Download paper here](http://academicpages.github.io/files/nh-quality-nsgo-sp.pdf) --->
 
 Recommended citation: Megdalynn Fisher. (expected). "Is Government Acquisition of Nursing Homes an Improvement? Medicaid Supplemental Payments to Non-State Government-Owned Nursing Facilities, Quality, and Enforcement" <i>forthcoming</i>. 1(3).
