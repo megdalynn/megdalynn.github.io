@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+## Under Construction
+This website is still being built. Links and files may not work or exist yet. 5/5/2023
+
 ## Bio
 I am a fourth-year PhD student studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. The best part of my career is how academia combines my love for research with my passion for teaching and serving others. I plan on making the world a better place through my efforts to analyze public healthcare policy, advance theory-based research, and inspire students of public affairs. 
 
