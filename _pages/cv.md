@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+
+----
+
+
 # Education  
 ### Ph.D. PUBLIC AFFAIRS (2019 - 2024 expected)  
   O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN  
@@ -24,6 +28,9 @@ redirect_from:
   
 ### B.S. Economics (2014 - 2017)  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
+
+
+----
 
 
 # Work experience  
@@ -64,25 +71,41 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
 ####    Ross University School of Medicine Student Newsletter, Commonwealth of Dominica	 
   - Published and distributed the school’s newsletter as part of a two-person team.
   - Increased readership by 24% and advertising accounts by 50%.
-  
+
+
+----
+
+
 # Publications  
   
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+----
+
+
 # Talks  
   
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-    
+
+
+----
+
+
 # Teaching  
   
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-    
+
+
+----
+
+
 # Service and leadership  
   
 #### Health Policy Workshop, Student Coordinator, 8/2020 - present  
@@ -118,7 +141,11 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
   - Partnered with University staff members and volunteers to create and publish a detailed information booklet, roughly four-times the size of previous versions, complete with images, detailed instructions, and advice.  
 #### Board of Directors, New Voice Theater, Alamogordo, New Mexico, 1/2006 – 8/2007  
   - Assisted in developing programs to encourage youth involvement in community theater productions and generation of scholarship funds.  
-  
+
+
+----
+
+
 # Awards, Honors, and Fellowships
 - Irsay Institute Fellowship, Indiana University, 2023 - 2024
 - Graduate Fellowship, Rumsfeld Foundation, 2019 - 2021
