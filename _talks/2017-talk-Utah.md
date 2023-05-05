@@ -1,7 +1,7 @@
 ---
 title: "Rising Food Prices: The Case of Childhood Poverty in a Developed Economy"
 collection: talks
-type: "Talks"
+type: "Poster"
 permalink: /talks/2017-talk-Utah
 venue: "Utah Confernece on Undergraduate Research"
 date: 2017-03-01
