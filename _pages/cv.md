@@ -49,7 +49,7 @@ redirect_from:
   UVU Managerial Statistics, Orem, UT  
   - Recruited by the Director of Academic Tutoring at UVU to lead three student study sessions per week in managerial statistics for Spring semester 2017.  
 <br/><br/>
-- mBOOKKEEPER  
+- BOOKKEEPER  
   Quickbooks Bookkeeping, Spanish Fork, UT	8/2012 – 8/2017  
   - Accessed and organized information from various sources to provide monthly and annual financial statements as a self-employed bookkeeper.  
   - Reduced bookkeeping time by 40% during exceptional company growth (revenues, assets, and cash flows increasing roughly 300%).  
