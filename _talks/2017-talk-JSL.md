@@ -5,7 +5,7 @@ type: "Talks"
 permalink: /talks/201-talk-JSL
 venue: "Utah Valley University"
 date: 2017-04-20
-location: "Orem, UT, USA"
+location: "Orem, Utah"
 ---
 
 
