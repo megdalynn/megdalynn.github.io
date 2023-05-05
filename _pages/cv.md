@@ -19,8 +19,8 @@ redirect_from:
 - MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
   Marriott School of Business, Brigham Young University (BYU), Provo, UT  
   * Information Systems Minor  
-  * Program Management Field Major Emphasis  
-  * Healthcare Field Minor Emphasis  
+  * Program Management Major Emphasis  
+  * Healthcare Minor Emphasis  
 <br/><br/>
 - B.S. Economics (2014 - 2017)  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
