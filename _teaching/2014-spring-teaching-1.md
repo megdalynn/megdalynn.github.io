@@ -9,5 +9,5 @@ location: "Bloomington, Indiana"
 ---
 
 
-### Teaching
+### Instructor of record
 2022 Spring SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
