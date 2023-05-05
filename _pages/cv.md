@@ -16,7 +16,7 @@ O'Neill School of Public and Environmental Affaris, Indiana University (IU), Blo
 [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
 * Policy Analysis Major
 * Public Finance Minor
-\
+<br/><br/>
 MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
 Marriott School of Business, Brigham Young University (BYU), Provo, UT 
 * Information Systems Minor
@@ -24,7 +24,7 @@ Marriott School of Business, Brigham Young University (BYU), Provo, UT
 * Healthcare Field Minor Emphasis
 B.S. Economics (2014 - 2017)  
 Woodbury School of Business, Utah Valley University (UVU), Orem, UT
-\
+<br/><br/>
 # Work experience
 \
 ASSOCIATE INSTRUCTOR	8/2021 – PRESENT  
