@@ -15,3 +15,4 @@ Are nursing home residents with Alzheimer's disease and related dementias (ADRD)
 
 Recommended citation: Bowblis, John, Megdalynn Fisher, Judith Lucas, and Kosali Simon. (expected). "Antipsychotic Medication Use Among ADRD Nursing Home Residents: Ownership Structures and Racial Disparities" <i>forthcoming</i>. 1(3).
 
+...
