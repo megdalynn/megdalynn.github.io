@@ -4,9 +4,9 @@ collection: talks
 type: "Talks"
 permalink: /talks/201-talk-JSL
 venue: "Utah Valley University"
-date: 2017-04-21
+date: 2017-04-20
 location: "Orem, UT, USA"
 ---
 
 
-“The Hope of Mankind,” The Journal of Student Leadership, Vol 1 No 1, 2017
+Fisher, Megdalynn. “The Hope of Mankind,” Oral recitation at the celebration of the inaugural edition of The Journal of Student Leadership, Orem, Utah, April 20, 2017.
