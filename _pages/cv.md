@@ -85,7 +85,7 @@ redirect_from:
   
 # Service and leadership  
 
-  ##### Health Policy Workshop, Student Coordinator, 8/2020 - present  
+##### Health Policy Workshop, Student Coordinator, 8/2020 - present  
   - Participated in all phases of workshop preparation and management  
 ##### O'Neill PhD Student Association President, Executive Board Member 2020 - present  
   - Planned, organized, and conducted the annual student conference (expected, March 2021) and program social activities  
