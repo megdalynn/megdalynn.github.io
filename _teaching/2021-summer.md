@@ -1,7 +1,7 @@
 ---
 title: "Healthcare Finance, SPEA-H526"
 collection: teaching
-type: "Teacher's Assistant"
+type: "Graduate Teacher's Assistant"
 permalink: /teaching/2022-spring-teaching
 venue: "Indiana University, O'Neill School of Public and Environmental Affairs"
 date: 2021-07-12
