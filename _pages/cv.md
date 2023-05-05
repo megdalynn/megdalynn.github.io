@@ -154,7 +154,11 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
 - Healthcare Industry Scholar
 - Summa Cum Laude (UVU)
 - Outstanding Student Award, Finance and Economics (UVU)
-  
+
+
+----
+
+
 # Professional Memberships
 -	Association for Public Policy Analysis and Management
 -	American Society for Public Administration
