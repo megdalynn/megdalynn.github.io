@@ -93,7 +93,7 @@ redirect_from:
   - Chaired health policy research panel at O’Neill’s undergraduate research conference.  
 ##### Economics Advisory Board member, Utah Valley University, 2021 - present  
   - Provided consultation services and policy recommendations to strengthen the economics program and enhance student learning opportunities.  
-##### Program Advisory Committee member, MPA at Brookline College, 2022  
+##### Program Advisory Committee member, MPA at Brookline College, 2022 - present 
   - Provided consultation services regarding MPA course offerings, objectives, and student learning opportunities.  
 ##### Research Assistant, Healthcare Industry Research Center, BYU,	9/2017 – 5/2019  
   - Examined factors associated with patient satisfaction and participated in developing research ideas and methods.  
