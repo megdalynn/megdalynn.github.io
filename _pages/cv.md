@@ -16,7 +16,7 @@ O'Neill School of Public and Environmental Affaris, Indiana University (IU), Blo
   * Policy Analysis Major
   * Public Finance Minor
 <br/><br/>
-MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
+_{:.h-h}MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  {: .h-1 }
 Marriott School of Business, Brigham Young University (BYU), Provo, UT 
   * Information Systems Minor
   * Program Management Field Major Emphasis
