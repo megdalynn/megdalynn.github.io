@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
-\
+
 # Education
-\
+<br/><br/>
 Ph.D. PUBLIC AFFAIRS (2019 - 2024 expected)  
 O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN
 [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
