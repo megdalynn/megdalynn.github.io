@@ -162,7 +162,8 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
 # Professional Memberships
 -	Association for Public Policy Analysis and Management
 -	American Society for Public Administration
--	Association for Budgeting and Financial Management
+-	Public Management Research Association
 -	American Society of Health Economists 
+-	Association for Budgeting and Financial Management
 -	American Economics Association
--	American College of Healthcare Executiv
+-	American College of Healthcare Executives
