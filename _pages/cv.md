@@ -63,10 +63,11 @@ megsfish@iu.edu
 
 RESEARCH ASSISTANT 8/2019 - PRESENT
 ####    Indiana University, Bloomington, IN  
-  - Advisor: Kosali Simon  Projects: Racial segregation and nursing homes, use of antipsychotic medications in the treatment of Alzheimer's disease and related dementias and serious mental illness, formal disruptions to care in the nursing facility market, hospital price transparency, Medicaid expansion and the Health and Retirement Study, patient sorting and provider characteristics, CARES Act relief funds, etc.
-  - Advisors: Seth Freedman and Victoria Perez Projects: Hospital advertising and market concentration, end of life care, healthcare quality, and the Section 340B drug pricing program.
-  - Advisor: Jen Silva  Projects: analysis and assembly of qualitative patient interviews with electronic health records.
-  - Advisor: Victoria Perez  Projects: Medicaid Fraud Control Units and job turnover, COVID-19 and nursing home quality.
+  - Research and analysis for Kosali Simon: Racial segregation and nursing homes, use of antipsychotic medications in the treatment of Alzheimer's disease and related dementias and serious mental illness, formal disruptions to care in the nursing facility market, hospital price transparency, Medicaid expansion and the Health and Retirement Study, patient sorting and provider characteristics, CARES Act relief funds, etc.
+  - Research and analysis for Seth Freedman and Victoria Perez: Hospital advertising and market concentration, end of life care, healthcare quality, and the Section 340B drug pricing program.
+  - Analysis for Jen Silva: narrative analysis and assembly of qualitative patient interviews with electronic health records.
+  - Research and analysis for Victoria Perez: Medicaid Fraud Control Units and job turnover, COVID-19 and nursing home quality.
+  - Senior thesis advising for one to two undergraduate student capstone projects a semester, Spring 2022 - Spring 2023.
 
 ----
 
