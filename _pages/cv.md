@@ -11,7 +11,7 @@ redirect_from:
 
 
 ----
-(678) 823 - 3128  
+(678) 823-3128  
 megsfish@iu.edu
 
 
@@ -29,10 +29,12 @@ megsfish@iu.edu
   * Information Systems Minor  
   * Program Management Major Emphasis  
   * Healthcare Minor Emphasis  
-  Advisors: Rob Christensen, Rex Facer, Andrew Heiss
+  #### Advisors: Rob Christensen, Rex Facer, Andrew Heiss
+  * "Public reporting of Utah quality measures in collaboration with Total Cost of Care"
   
 ### B.S. Economics (2014 - 2017)  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
+  #### Advisor: Maritza Sotomayor
 
 
 ----
