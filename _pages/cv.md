@@ -40,11 +40,42 @@ megsfish@iu.edu
 ----
 
 
-# Work experience  
+# Publications  
+  
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+
+----
+
+
+# Talks  
+  
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+
+---
+
+# Research Experience
+
+RESEARCH ASSISTANT 8/2019 - PRESENT
+####    Indiana University, Bloomington, IN  
+  - Advisor: Kosali Simon  Projects: Racial segregation and nursing homes, use of antipsychotic medications in the treatment of Alzheimer's disease and related dementias and serious mental illness, formal disruptions to care in the nursing facility market, hospital price transparency, Medicaid expansion and the Health and Retirement Study, patient sorting and provider characteristics, CARES Act relief funds, etc.
+  - Advisors: Seth Freedman and Victoria Perez Projects: Hospital advertising and market concentration, end of life care, healthcare quality, and the Section 340B drug pricing program.
+  - Advisor: Jen Silva  Projects: analysis and assembly of qualitative patient interviews with electronic health records.
+  - Advisor: Victoria Perez  Projects: Medicaid Fraud Control Units and job turnover, COVID-19 and nursing home quality.
+
+----
+
+
+# Work Experience  
 
 ASSOCIATE INSTRUCTOR	8/2021 – PRESENT
 ####    Indiana University, Bloomington, IN  
-  - Designed and taught sophomore level contemporary economics for public affairs.  
+  - Instructor of record. Designed and taught sophomore level contemporary economics for public affairs.  
 
 RESEARCH ASSISTANT	8/2019 – PRESENT
 ####    Indiana University, Bloomington, IN  
@@ -82,27 +113,6 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
 
 ----
 
-
-# Publications  
-  
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-----
-
-
-# Talks  
-  
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-
-----
-
-
 # Teaching  
   
   <ul>{% for post in site.teaching %}
@@ -111,7 +121,6 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
 
 
 ----
-
 
 # Service and leadership  
   
