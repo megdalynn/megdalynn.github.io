@@ -19,12 +19,15 @@ redirect_from:
     [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
   * Policy Analysis Major  
   * Public Finance Minor  
+  Dissertation Committee: Kosali Simon, Seth Freedman, Victoria Perez, Justin Ross, Coady Wing
+  *  "Unintended Consequences of Policy on Healthcare Quality in the Long-term Care Market"
   
 ### MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
   Marriott School of Business, Brigham Young University (BYU), Provo, UT  
   * Information Systems Minor  
   * Program Management Major Emphasis  
   * Healthcare Minor Emphasis  
+  Advisors: Rob Christensen, Rex Facer, Andrew Heiss
   
 ### B.S. Economics (2014 - 2017)  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
