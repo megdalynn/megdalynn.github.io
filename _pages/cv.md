@@ -24,7 +24,7 @@ megsfish@iu.edu
     [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
   * Policy Analysis Major  
   * Public Finance Minor  
-  #### Dissertation Committee: Kosali Simon, Seth Freedman, Victoria Perez, Justin Ross, Coady Wing
+#### Dissertation Committee: Kosali Simon, Seth Freedman, Victoria Perez, Justin Ross, Coady Wing
   *  "Unintended Consequences of Policy on Healthcare Quality in the Long-term Care Market"
   
 ### MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
@@ -32,12 +32,12 @@ megsfish@iu.edu
   * Information Systems Minor  
   * Program Management Major Emphasis  
   * Healthcare Minor Emphasis  
-  #### Advisors: Rob Christensen, Rex Facer, Andrew Heiss
+#### Advisors: Rob Christensen, Rex Facer, Andrew Heiss
   * "Public reporting of Utah quality measures in collaboration with Total Cost of Care"
   
 ### B.S. Economics (2014 - 2017)  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
-  #### Advisor: Maritza Sotomayor
+#### Advisor: Maritza Sotomayor
 
 
 ----
