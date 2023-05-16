@@ -78,11 +78,11 @@ RESEARCH ASSISTANT 8/2019 - PRESENT
 # Work Experience  
 
 > DATA ANALYST	5/2018 – 8/2019  
-####    Comagine Health, Murray, UT  
-  - Cleaned, analyzed, and utilized data to produce actionable reports supporting the Quality Payment Program, Total Cost of Care, and Health Innovation Improvement Network for this Quality Innovation Network/Quality Improvement Organization (QIN/QIO).
-  - Performed and interpreted statistical analysis, creating data visualizations.
-  - Researched and proposed analysis techniques for public transparency objectives.
-  - Designed automated reports using Tableau, Excel, Access, SAS, and R Studio.
+> ####    Comagine Health, Murray, UT  
+>   - Cleaned, analyzed, and utilized data to produce actionable reports supporting the Quality Payment Program, Total Cost of Care, and Health Innovation Improvement Network for this Quality Innovation Network/Quality Improvement Organization (QIN/QIO).
+>   - Performed and interpreted statistical analysis, creating data visualizations.
+>   - Researched and proposed analysis techniques for public transparency objectives.
+>   - Designed automated reports using Tableau, Excel, Access, SAS, and R Studio.
 
 > BOOKKEEPER  
 ####    Quickbooks Bookkeeping, Spanish Fork, UT	8/2012 – 8/2017  
