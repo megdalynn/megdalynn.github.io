@@ -106,6 +106,10 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
   - Published and distributed the school’s newsletter as part of a two-person team.
   - Increased readership by 24% and advertising accounts by 50%.
 
+NON-PROFIT BOARD MEMBER	1/2006 – 5/2007  
+####    New Voice Theater, Alamogordo, New Mexico	 
+  - Assisted in musical theater productions to fund youth scholarship opportunities.
+
 ----
 
 # Research Interests  
