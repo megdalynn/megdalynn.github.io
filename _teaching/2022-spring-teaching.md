@@ -8,6 +8,7 @@ date: 2022-01-11
 location: "Bloomington, Indiana"
 ---
 
+3 cr. Spring Semester  
 This course reinforces and deepens economic skills by applying basic microeconomic concepts
 and models to a variety of policy areas. Using economic models, students in the course will
 examine the motivation for intervention in the economy, the types of intervention, and the
