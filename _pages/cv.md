@@ -44,8 +44,8 @@ megsfish@iu.edu
 
 
 # Publications  
-  
-  <ul>{% for post in site.publications %}
+
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -55,7 +55,7 @@ megsfish@iu.edu
 
 # Talks  
   
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
@@ -122,7 +122,7 @@ NON-PROFIT BOARD MEMBER	1/2006 – 5/2007
 
 # Teaching  
   
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
