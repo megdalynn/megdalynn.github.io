@@ -9,4 +9,4 @@ location: "Provo, Utah"
 ---
 
 By the end of this course, you will (1) be literate in fundamental economic principles, (2) understand the limits of economic theory and free markets, (3) justify government and nonprofit intervention in the economy, and (4) make informed policy recommendations by analyzing and evaluating public sector policies.  
-https://econw18.classes.andrewheiss.com/  
+[MPA-612]https://econw18.classes.andrewheiss.com/  
