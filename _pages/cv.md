@@ -25,7 +25,7 @@ megsfish@iu.edu
   * Policy Analysis Major  
   * Public Finance Minor  
 > #### Dissertation Committee: Kosali Simon, Seth Freedman, Victoria Perez, Justin Ross, Coady Wing
->   *  "Unintended Consequences of Policies on Healthcare Quality in the Long-term Care Market"
+> * "Unintended Consequences of Policies on Healthcare Quality in the Long-term Care Market"
   
 ### MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
   Marriott School of Business, Brigham Young University (BYU), Provo, UT  
@@ -33,12 +33,12 @@ megsfish@iu.edu
   * Program Management Major Emphasis  
   * Healthcare Minor Emphasis  
 > #### Advisors: Rob Christensen, Rex Facer, Andrew Heiss
->   * "Public reporting of Utah quality measures in collaboration with Total Cost of Care"
+> * "Public reporting of Utah quality measures in collaboration with Total Cost of Care"
   
 ### B.S. Economics (2014 - 2017)  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
 > #### Advisor: Maritza Sotomayor  
->   * "Global food prices and Utah childhood poverty rates"  
+> * "Global food prices and Utah childhood poverty rates"  
 
 
 ----
