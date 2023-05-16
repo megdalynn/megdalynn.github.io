@@ -16,26 +16,26 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 
 ## Graduate Education  
 
-#### PhD Public Affairs - Indiana University (2019 - 2024 expected)  
+### PhD Public Affairs - Indiana University (2019 - 2024 expected)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
 * Policy Analysis  
 * Public Finance  
 * Faculty Advisors: Kosali Simon, Seth Freedman, Justin Ross  
 
-#### MPA - Brigham Young University (2017 - 2019)  
+### MPA - Brigham Young University (2017 - 2019)  
 * Minor in Information Systems  
 * Major field emphasis Program Management  
 * Minor field emphasis Healthcare  
 * Capstone: "Enhancing healthcare transparency in Utah: Deriving a composite quality score for public use as a complement to the Total Cost of Care project"  
-* Faculty Advisors: Robert Christensen, Rex Facer, Jeff Thompson, Eva Witesman, Chris Silvia, Andrew Heiss  
+* Faculty Advisors: Robert Christensen, Rex Facer, Andrew Heiss  
 
-### Interests
+## Interests
 - Health economics and policy 
 - Healthcare finance
 - Healthcare labor market 
 - Healthcare quality
 
-### Teaching
+## Teaching
 2022 Spring SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
 2021 Fall SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
 
