@@ -8,7 +8,7 @@ date: 2022-01-11
 location: "Bloomington, Indiana"
 ---
 
-**Course Description**  
+Course Description   
 This course reinforces and deepens economic skills by applying basic microeconomic concepts
 and models to a variety of policy areas. Using economic models, students in the course will
 examine the motivation for intervention in the economy, the types of intervention, and the
