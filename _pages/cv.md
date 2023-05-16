@@ -111,6 +111,14 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
   - Published and distributed the school’s newsletter as part of a two-person team.
   - Increased readership by 24% and advertising accounts by 50%.
 
+----
+
+# Research Interests  
+ * Policy Analysis
+ * Health Economics
+ * Public Finance
+ * Healthcare Finance
+ * Healthcare Services
 
 ----
 
@@ -122,6 +130,28 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
 
 
 ----
+
+
+# Teaching Interests  
+ * Economics, Statistics
+ * Healthcare Services Delivery, Health Economics, Healthcare Finance
+
+
+----
+
+
+# Awards, Honors, and Fellowships
+- Irsay Institute Fellowship, Indiana University, 2023 - 2024
+- Graduate Fellowship, Rumsfeld Foundation, 2019 - 2021
+- Stewart L. Grow Award (BYU)
+- MPA Academic Award (BYU)
+- Healthcare Industry Scholar
+- Summa Cum Laude (UVU)
+- Outstanding Student Award, Finance and Economics (UVU)
+
+
+----
+
 
 # Service and leadership  
   
@@ -158,19 +188,6 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
   - Partnered with University staff members and volunteers to create and publish a detailed information booklet, roughly four-times the size of previous versions, complete with images, detailed instructions, and advice.  
 #### Board of Directors, New Voice Theater, Alamogordo, New Mexico, 1/2006 – 8/2007  
   - Assisted in developing programs to encourage youth involvement in community theater productions and generation of scholarship funds.  
-
-
-----
-
-
-# Awards, Honors, and Fellowships
-- Irsay Institute Fellowship, Indiana University, 2023 - 2024
-- Graduate Fellowship, Rumsfeld Foundation, 2019 - 2021
-- Stewart L. Grow Award (BYU)
-- MPA Academic Award (BYU)
-- Healthcare Industry Scholar
-- Summa Cum Laude (UVU)
-- Outstanding Student Award, Finance and Economics (UVU)
 
 
 ----
