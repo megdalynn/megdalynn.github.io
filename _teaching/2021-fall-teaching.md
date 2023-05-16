@@ -8,4 +8,5 @@ date: 2021-08-13
 location: "Bloomington, Indiana"
 ---
 
-
+Fall Semester (3 cr.)
+See description, above.
