@@ -77,6 +77,7 @@ RESEARCH ASSISTANT 8/2019 - PRESENT
 
 # Work Experience  
 
+
 > DATA ANALYST	5/2018 – 8/2019  
 > ####    Comagine Health, Murray, UT  
 >   - Cleaned, analyzed, and utilized data to produce actionable reports supporting the Quality Payment Program, Total Cost of Care, and Health Innovation Improvement Network for this Quality Innovation Network/Quality Improvement Organization (QIN/QIO).
@@ -84,23 +85,28 @@ RESEARCH ASSISTANT 8/2019 - PRESENT
 >   - Researched and proposed analysis techniques for public transparency objectives.
 >   - Designed automated reports using Tableau, Excel, Access, SAS, and R Studio.
 
+
 > BOOKKEEPER  
-####    Quickbooks Bookkeeping, Spanish Fork, UT	8/2012 – 8/2017  
-  - Accessed and organized information from various sources to provide monthly and annual financial statements as a self-employed bookkeeper.  
-  - Reduced bookkeeping time by 40% during exceptional company growth (revenues, assets, and cash flows increasing roughly 300%).  
+> ####    Quickbooks Bookkeeping, Spanish Fork, UT	8/2012 – 8/2017  
+>   - Accessed and organized information from various sources to provide monthly and annual financial statements as a self-employed bookkeeper.  
+>   - Reduced bookkeeping time by 40% during exceptional company growth (revenues, assets, and cash flows increasing roughly 300%).  
+
 
 > OFFICE MANAGER	5/2012 – 8/2013  
-####    Anderson Wood Law, Salt Lake City, UT  
-  - Responsible for creating invoices, billing clients, filing documents, bookkeeping, and providing customer service.  
+> ####    Anderson Wood Law, Salt Lake City, UT  
+>   - Responsible for creating invoices, billing clients, filing documents, bookkeeping, and providing customer service.  
+
 
 > CO-EDITOR, COLUMNIST	1/2008 – 8/2008  
-####    Ross University School of Medicine Student Newsletter, Commonwealth of Dominica	 
-  - Published and distributed the school’s newsletter as part of a two-person team.
-  - Increased readership by 24% and advertising accounts by 50%.
+> ####    Ross University School of Medicine Student Newsletter, Commonwealth of Dominica	 
+>   - Published and distributed the school’s newsletter as part of a two-person team.
+>   - Increased readership by 24% and advertising accounts by 50%.
+
 
 > NON-PROFIT BOARD MEMBER	1/2006 – 5/2007  
-####    New Voice Theater, Alamogordo, New Mexico	 
-  - Assisted in musical theater productions to fund youth scholarship opportunities.
+> ####    New Voice Theater, Alamogordo, New Mexico	 
+>   - Assisted in musical theater productions to fund youth scholarship opportunities.
+
 
 ----
 
