@@ -12,4 +12,4 @@ location: "Provo, Utah"
 
 In this class, you’ll learn how to speak and do economics.
 
-https://econw19.classes.andrewheiss.com/  
+[MPA-612]https://econw19.classes.andrewheiss.com/  
