@@ -114,11 +114,10 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
 ----
 
 # Research Interests  
- * Policy Analysis
- * Health Economics
- * Public Finance
- * Healthcare Finance
- * Healthcare Services
+- Health economics and policy 
+- Healthcare and public finance
+- Healthcare labor market 
+- Healthcare quality and services
 
 ----
 
