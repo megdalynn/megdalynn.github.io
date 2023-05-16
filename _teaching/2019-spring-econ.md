@@ -8,7 +8,7 @@ date: 2019-04-17
 location: "Provo, Utah"
 ---
 
-https://econw19.classes.andrewheiss.com/
+https://econw19.classes.andrewheiss.com/  
 
 **THE PUBLIC SECTOR IS COMPLEX.** Public administrators, managers, and policy makers need to be fluent in the language of economics and need to be able to engage in and understand quantitative analysis of social policies.
 
