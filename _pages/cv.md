@@ -25,7 +25,7 @@ megsfish@iu.edu
   * Policy Analysis Major  
   * Public Finance Minor  
 #### Dissertation Committee: Kosali Simon, Seth Freedman, Victoria Perez, Justin Ross, Coady Wing
-  *  "Unintended Consequences of Policy on Healthcare Quality in the Long-term Care Market"
+  *  "Unintended Consequences of Policies on Healthcare Quality in the Long-term Care Market"
   
 ### MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
   Marriott School of Business, Brigham Young University (BYU), Provo, UT  
