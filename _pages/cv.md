@@ -38,7 +38,7 @@ megsfish@iu.edu
 ### B.S. Economics (2014 - 2017)  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
 > #### Advisor: Maritza Sotomayor
->   * "
+>   * "Global food prices and Utah childhood poverty rates"
 
 
 ----
