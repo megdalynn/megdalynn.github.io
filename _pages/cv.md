@@ -74,7 +74,7 @@ RESEARCH ASSISTANT 8/2019 - PRESENT
 
 # Work Experience  
 
-ASSOCIATE INSTRUCTOR	8/2021 – PRESENT
+ASSOCIATE INSTRUCTOR	8/2021 – 5/2022
 ####    Indiana University, Bloomington, IN  
   - Instructor of record. Designed and taught sophomore level contemporary economics for public affairs.  
 
@@ -84,7 +84,7 @@ RESEARCH ASSISTANT	8/2019 – PRESENT
 
 DATA ANALYST	5/2018 – 8/2019  
 ####    Comagine Health, Murray, UT  
-  - Cleaned, analyzed, and utilized data to produce actionable reports supporting the Quality Payment Program, Total Cost of Care, and Health Innovation Improvement Network.  
+  - Cleaned, analyzed, and utilized data to produce actionable reports supporting the Quality Payment Program, Total Cost of Care, and Health Innovation Improvement Network for this Quality Innovation Network/Quality Improvement Organization (QIN/QIO).
   - Performed and interpreted statistical analysis, creating data visualizations.
   - Researched and proposed analysis techniques for public transparency objectives.
   - Designed automated reports using Tableau, Excel, Access, SAS, and R Studio.
@@ -130,11 +130,11 @@ CO-EDITOR, COLUMNIST	1/2008 – 8/2008
 
 ----
 
-
 # Teaching Interests  
- * Economics, Statistics
- * Healthcare Services Delivery, Health Economics, Healthcare Finance
-
+ * Health: Health Economics, Healthcare Services Delivery, Healthcare Finance
+ * Economics: Introduction, Microeconomics, Contemporary Affairs, Public Policy, Principles, History, Labor, Econometrics, Development, and Poverty
+ * Statistics: Introduction, Managerial, Data Analysis, Quantitative Analysis
+ * Public Affairs: Program Evaluation, Policy Analysis, Finance
 
 ----
 
