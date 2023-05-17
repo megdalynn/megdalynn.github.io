@@ -7,11 +7,11 @@ excerpt: "Do subsidies through Non-State Government Owned nursing facility suppl
 date: 2023-05-16
 venue: 'forthcoming'
 paperurl: '<!---http://academicpages.github.io/files/nh-quality-nsgo-sp.pdf --->'
-citation: "Megdalynn Fisher. (expected). &quot;Is Government Acquisition of Nursing Homes an Improvement? Medicaid Supplemental Payments to Non-State Government-Owned Nursing Facilities, Quality, and Enforcement&quot; <i>forthcoming 1</i>. 1(3)."
+citation: "Fisher, Megdalynn. &quot;Is Government Acquisition of Nursing Homes an Improvement? Medicaid Supplemental Payments to Non-State Government-Owned Nursing Facilities, Quality, and Enforcement&quot; <i>forthcoming 1</i>. 1(3)."
 ---
 
 Do subsidies through Non-State Government Owned nursing facility supplemental payment programs spur government acquisitions and do the subsidies translate to fewer deficiencies and better quality?
 
 <!--- [Download paper here](http://academicpages.github.io/files/nh-quality-nsgo-sp.pdf) --->
 
-Recommended citation: Megdalynn Fisher. (expected). "Is Government Acquisition of Nursing Homes an Improvement? Medicaid Supplemental Payments to Non-State Government-Owned Nursing Facilities, Quality, and Enforcement" <i>forthcoming</i>. 1(3).
+Recommended citation: Fisher, Megdalynn. "Is Government Acquisition of Nursing Homes an Improvement? Medicaid Supplemental Payments to Non-State Government-Owned Nursing Facilities, Quality, and Enforcement" <i>forthcoming</i>. 1(3).
