@@ -15,7 +15,7 @@ Megdalynn Fisher
 O'Neill School of Public and Envrionmental Affairs  
 1315 E. Tenth Street Bloomington, IN 47405-1701  
 (678) 823-3128  
-megsfish@iu.edu
+megdalynnfisher@outlook.com
 
 
 # Education  
