@@ -1,7 +1,7 @@
 ---
 title: "Rising Food Prices: The Case of Childhood Poverty in a Developed Economy"
 collection: talks
-type: "Talk"
+type: "Presentation"
 permalink: /talks/2017-talk-NCUR
 venue: "National Confernece on Undergraduate Research"
 date: 2017-04-06
