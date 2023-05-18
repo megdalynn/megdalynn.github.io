@@ -71,13 +71,13 @@ RESEARCH ASSISTANT 9/2017 - PRESENT
 
 
 Kosali Simon, 2/2022 - PRESENT  
-  * Racial segregation and nursing homes
-  * Use of antipsychotic medications in the treatment of Alzheimer's disease and related dementias and serious mental illness
-  * Formal disruptions to care in the nursing facility market
-  * Hospital price transparency
-  * Medicaid expansion and the Health and Retirement Study
-  * Patient sorting and provider characteristics
-  * CARES Act relief funds
+>  * Racial segregation and nursing homes
+>  * Use of antipsychotic medications in the treatment of Alzheimer's disease and related dementias and serious mental illness
+>  * Formal disruptions to care in the nursing facility market
+>  * Hospital price transparency
+>  * Medicaid expansion and the Health and Retirement Study
+>  * Patient sorting and provider characteristics
+>  * CARES Act relief funds
 
 
 Seth Freedman and Victoria Perez, 8/2019 - 8/2021  
