@@ -92,7 +92,7 @@ Mark Keith and Bill Taylor, 9/2017 - 5/2019
 # Work Experience  
 
 
-DATA ANALYST	5/2018 – 8/2019  
+DATA ANALYST,	5/2018 – 8/2019  
 > ####    Comagine Health, Murray, UT  
 >   * Cleaned, analyzed, and utilized data to produce actionable reports supporting the Quality Payment Program, Total Cost of Care, and Health Innovation Improvement Network for this Quality Innovation Network/Quality Improvement Organization (QIN/QIO).
 >   * Performed and interpreted statistical analysis, creating data visualizations.
@@ -100,13 +100,13 @@ DATA ANALYST	5/2018 – 8/2019
 >   * Designed automated reports using Tableau, Excel, Access, SAS, and R Studio.
 
 
-BOOKKEEPER  
-> ####    Quickbooks Bookkeeping, Spanish Fork, UT	8/2012 – 8/2017  
+BOOKKEEPER, 8/2012 – 8/2017  
+> ####    Quickbooks Bookkeeping, Spanish Fork, UT	  
 >   * Accessed and organized information from various sources to provide monthly and annual financial statements as a self-employed bookkeeper.  
 >   * Reduced bookkeeping time by 40% during exceptional company growth (revenues, assets, and cash flows increasing roughly 300%).  
 
 
-OFFICE MANAGER	5/2012 – 8/2013  
+OFFICE MANAGER,	5/2012 – 8/2013  
 > ####    Anderson Wood Law, Salt Lake City, UT  
 >   * Responsible for creating invoices, billing clients, filing documents, bookkeeping, and providing customer service.  
 
