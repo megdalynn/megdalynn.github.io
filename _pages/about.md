@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Under Construction 5/16/2023
+## Under Construction 5/17/2023
 This website is still being built. Links and files may not work or exist yet. 
 
 ## Bio
@@ -40,7 +40,7 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 2021 Fall SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
 
 ### Service
-- Health Policy Workshop, Student Coordinator, 8/2020 - present  
+- Health Policy Workshop, Student Coordinator, 8/2020 - 5/2023  
 - O'Neill PhD Student Association Board Member, 2020 - present  
 - Undergraduate Honors Thesis Advising and healthcare panel chair, 4/29/2022 and 4/28/2023  
 - Economics Advisory Board member, Utah Valley University, 2021 - present  
