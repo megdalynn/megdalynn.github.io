@@ -23,18 +23,18 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 * Advisors: Rob Christensen, Rex Facer, Andrew Heiss
 
 ## Researach Interests
-- Health economics and policy 
+* Health economics and policy 
 
 ## Teaching
-SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR), 2022 Spring and 2021 Fall 
+* SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR), 2022 Spring and 2021 Fall 
 
 ### Service
-- Health Policy Workshop, Student Coordinator, 8/2020 - 5/2023  
-- O'Neill PhD Student Association Board Member, 2020 - present  
-- Undergraduate Honors Thesis Advising and healthcare panel chair, 4/29/2022 and 4/28/2023  
-- Economics Program Advisory Committee, Utah Valley University, 2021 - present  
+* Health Policy Workshop, Student Coordinator, 8/2020 - 5/2023  
+* O'Neill PhD Student Association Board Member, 2020 - present  
+* Undergraduate Honors Thesis Advising and healthcare panel chair, 4/29/2022 and 4/28/2023  
+* Economics Program Advisory Committee, Utah Valley University, 2021 - present  
   
 ### Fellowships
-- Irsay Institute, 2023 - 2024
-- Rumsfeld Foundation, 2019 - 2021  
-- Healthcare Industry Scholar, Marriott School of Business, 2018 - 2019  
+* Irsay Institute, 2023 - 2024
+* Rumsfeld Foundation, 2019 - 2021  
+* Healthcare Industry Scholar, Marriott School of Business, 2018 - 2019  
