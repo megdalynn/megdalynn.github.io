@@ -19,26 +19,26 @@ megdalynnfisher@outlook.com
 
 
 # Education  
-### Ph.D. PUBLIC AFFAIRS (2019 - 2024 expected)  
+### Ph.D. PUBLIC AFFAIRS, 2024 expected  
   O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN  
     [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
   * Policy Analysis Major  
   * Public Finance Minor  
 > #### Dissertation Committee: Kosali Simon (chair), Seth Freedman, Victoria Perez, Justin Ross, Coady Wing
-> * "Unintended Consequences of Policies on Healthcare Quality in the Long-term Care Market"
+> * Dissertatin: "Unintended Consequences of Policies on Healthcare Quality in the Long-term Care Market"
   
-### MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
+### MASTER OF PUBLIC ADMINISTRATION, 2019  
   Marriott School of Business, Brigham Young University (BYU), Provo, UT  
   * Information Systems Minor  
   * Program Management Major Emphasis  
   * Healthcare Minor Emphasis  
 > #### Advisors: Rob Christensen, Rex Facer, Andrew Heiss
-> * "Enhancing healthcare transparency in Utah: Deriving a composite quality score for public use as a complement to the Total Cost of Care project"
+> * Capstone: "Enhancing healthcare transparency in Utah: Deriving a composite quality score for public use as a complement to the Total Cost of Care project"
   
-### B.S. Economics (2014 - 2017)  
+### B.S. Economics, 2017  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
 > #### Advisor: Maritza Sotomayor  
-> * "Global Food Prices and Utah Childhood Poverty Rates"  
+> * Capstone: "Global Food Prices and Utah Childhood Poverty Rates"  
 
 
 ----
@@ -157,17 +157,17 @@ OFFICE MANAGER,	5/2012 – 8/2013
   
   * Health Policy Workshop, Student Coordinator, 8/2020 - present  
   * O'Neill PhD Student Association President, Executive Board Member 2020 - present  
-  * Undergraduate Honors Thesis healthcare panel chair, 4/29/2022, 4/28/2023  
+  * Undergraduate Honors Thesis, healthcare panel chair, 4/29/2022, 4/28/2023  
   * Economics Advisory Board member, Utah Valley University, 2021 - present  
   * Program Advisory Committee member, MPA at Brookline College, 2022 - present 
-  * Diversity and Inclusion Commitee, Romney Institute of Public Service and Ethics, BYU,	12/2017 – 5/2019  
-  * MPA Vice President, Events Specialist, Marriott School of Business’ Healthcare Industry Association, BYU,	9/2017 – 5/2019  
-  * Student Life Representative, Master of Public Administration Association, BYU, 4/2018 – 5/2019  
-  * Associate Editor, The Journal of Student Leadership, UVU 5/2016 – 5/2017  
-  * Vice-President, Economics Club, UVU 8/2016 – 5/2017  
-  * President and Board Member, Ross Spouses’ Organization, Ross University, Commonwealth of Dominica, 5/2007 – 11/2008  
-  * Co-Editor, Columnist, Ross University School of Medicine Student Welcome Packet, 5/2007 – 8/2008  
-  * Board of Directors, New Voice Theater, Alamogordo, New Mexico, 1/2006 – 8/2007  
+  * Diversity and Inclusion Commitee, Romney Institute of Public Service and Ethics, Brigham Young University,	12/2017 – 5/2019  
+  * MPA Vice President, Events Specialist, Marriott School of Business’ Healthcare Industry Association, Brigham Young University,	9/2017 – 5/2019  
+  * Student Life Representative, Master of Public Administration Association, Brigham Young University, 4/2018 – 5/2019  
+  * Associate Editor, The Journal of Student Leadership, Utah Valley University 5/2016 – 5/2017  
+  * Vice-President, Economics Club, Utah Valley University 8/2016 – 5/2017  
+  * President and Board Member, Ross Spouses’ Organization, Ross University, 5/2007 – 11/2008  
+  * Co-Editor, Columnist, Ross University School of Medicine Student Welcome Packet and Newsletter, Ross University 5/2007 – 8/2008  
+  * Non-profit Board of Directors, New Voice Theater, Alamogordo, New Mexico, 1/2006 – 8/2007  
 
 ----
 
