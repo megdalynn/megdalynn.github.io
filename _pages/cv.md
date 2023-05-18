@@ -81,26 +81,27 @@ Kosali Simon, 2/2022 - PRESENT
 
 
 Seth Freedman and Victoria Perez, 8/2019 - 8/2021  
-  * Hospital advertising 
-     * Market concentration
-     * End of life care
-     * Healthcare quality
-     * Section 340B drug pricing program
+>  * Hospital advertising 
+>     * Market concentration
+>     * End of life care
+>     * Healthcare quality
+>     * Section 340B drug pricing program
 
 
 Jennifer Silva, 2/2022 - PRESENT  
-  * Narrative analysis and assembly of qualitative patient interviews with electronic health records
+>  * Narrative analysis 
+>  * Assembly of qualitative patient interviews with electronic health records
 
 
 Victoria Perez, 8/2019 - 8/2021  
-  * Medicaid Fraud Control Units and job turnover
-  * COVID-19 and nursing home quality
+>  * Medicaid Fraud Control Units and job turnover
+>  * COVID-19 and nursing home quality
 
 
 #### Brigham Young University, Provo, UT
 
 Mark Keith and Bill Taylor, 9/2017 - 5/2019  
-  * Healthcare Industry Research Center, Brigham Young University.
+>  * Healthcare Industry Research Center, Brigham Young University
 
 
 ----
