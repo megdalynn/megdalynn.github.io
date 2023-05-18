@@ -1,9 +1,9 @@
 ---
-title: "Workshop Semester Preview"
-excerpt: "Spring Semester 2023 Health Policy Workshop Semester Preview"
+title: "O'Neill Ph.D. Student Association Annual Student Research Conference Program"
+excerpt: "2023 website and program for annual research conference"
 collection: portfolio
 ---
 
-[Download paper here](http://academicpages.github.io/files/HPW_S2023_interactive.pdf)
+[Link to Conference Program]([https://asphds.so.indiana.edu/conference/index.html])
 
 
