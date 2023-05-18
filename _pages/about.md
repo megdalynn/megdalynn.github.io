@@ -17,33 +17,22 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 ## Graduate Education  
 
 ### PhD Public Affairs - Indiana University, 2024 expected  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
-* Policy Analysis  
-* Public Finance  
 * Faculty Advisors: Kosali Simon, Seth Freedman, Justin Ross  
 
 ### MPA - Brigham Young University, 2019  
-* Minor in Information Systems  
-* Major field emphasis Program Management  
-* Minor field emphasis Healthcare  
-* Capstone: "Enhancing healthcare transparency in Utah: Deriving a composite quality score for public use as a complement to the Total Cost of Care project"  
-* Faculty Advisors: Robert Christensen, Rex Facer, Andrew Heiss  
+* Advisors: Rob Christensen, Rex Facer, Andrew Heiss
 
-## Interests
+## Researach Interests
 - Health economics and policy 
-- Healthcare finance
-- Healthcare labor market 
-- Healthcare quality
 
 ## Teaching
-2022 Spring SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
-2021 Fall SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR)  
+SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR), 2022 Spring and 2021 Fall 
 
 ### Service
 - Health Policy Workshop, Student Coordinator, 8/2020 - 5/2023  
 - O'Neill PhD Student Association Board Member, 2020 - present  
 - Undergraduate Honors Thesis Advising and healthcare panel chair, 4/29/2022 and 4/28/2023  
-- Economics Advisory Board member, Utah Valley University, 2021 - present  
+- Economics Program Advisory Committee, Utah Valley University, 2021 - present  
   
 ### Fellowships
 - Irsay Institute, 2023 - 2024
