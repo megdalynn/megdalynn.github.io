@@ -70,20 +70,20 @@ RESEARCH ASSISTANT 9/2017 - PRESENT
 ####    Indiana University, Bloomington, IN  
 
 
-> Kosali Simon, 2/2022 - PRESENT  
->   * Racial segregation and nursing homes, use of antipsychotic medications in the treatment of Alzheimer's disease and related dementias and serious mental illness, formal disruptions to care in the nursing facility market, hospital price transparency, Medicaid expansion and the Health and Retirement Study, patient sorting and provider characteristics, CARES Act relief funds, etc.
+Kosali Simon, 2/2022 - PRESENT  
+  * Racial segregation and nursing homes, use of antipsychotic medications in the treatment of Alzheimer's disease and related dementias and serious mental illness, formal disruptions to care in the nursing facility market, hospital price transparency, Medicaid expansion and the Health and Retirement Study, patient sorting and provider characteristics, CARES Act relief funds, etc.
 
 
-> Seth Freedman and Victoria Perez, 8/2019 - 8/2021  
->   * Hospital advertising and market concentration, end of life care, healthcare quality, and the Section 340B drug pricing program.
+Seth Freedman and Victoria Perez, 8/2019 - 8/2021  
+  * Hospital advertising and market concentration, end of life care, healthcare quality, and the Section 340B drug pricing program.
 
 
-> Jennifer Silva, 2/2022 - PRESENT  
->   * Narrative analysis and assembly of qualitative patient interviews with electronic health records.
+Jennifer Silva, 2/2022 - PRESENT  
+  * Narrative analysis and assembly of qualitative patient interviews with electronic health records.
 
 
-> Victoria Perez, 8/2019 - 8/2021  
->   * Medicaid Fraud Control Units and job turnover, COVID-19 and nursing home quality.
+Victoria Perez, 8/2019 - 8/2021  
+  * Medicaid Fraud Control Units and job turnover, COVID-19 and nursing home quality.
 
 
 #### Brigham Young University, Provo, UT
