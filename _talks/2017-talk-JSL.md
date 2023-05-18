@@ -1,7 +1,7 @@
 ---
 title: "The Hope of Mankind"
 collection: talks
-type: "Presentation"
+type: "Oral Recitation"
 permalink: /talks/201-talk-JSL
 venue: "Utah Valley University"
 date: 2017-04-20
