@@ -88,8 +88,8 @@ Victoria Perez, 8/2019 - 8/2021
 
 #### Brigham Young University, Provo, UT
 
-> Mark Keith and Bill Taylor, 9/2017 - 5/2019  
->   * Healthcare Industry Research Center, Brigham Young University.
+Mark Keith and Bill Taylor, 9/2017 - 5/2019  
+  * Healthcare Industry Research Center, Brigham Young University.
 
 
 ----
