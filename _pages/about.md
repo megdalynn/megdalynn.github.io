@@ -18,7 +18,7 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 
 ### Graduate Education
 #### PhD Public Affairs - Indiana University, 2024 expected  
-* Faculty Advisors: Kosali Simon, Seth Freedman, Justin Ross  
+* Dissertation Committee: Kosali Simon (chair), Seth Freedman, Victoria Perez, Justin Ross, and Coady Wing  
 
 #### MPA - Brigham Young University, 2019  
 * Advisors: Rob Christensen, Rex Facer, Andrew Heiss
