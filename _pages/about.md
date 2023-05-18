@@ -16,13 +16,13 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 
 ## Graduate Education  
 
-### PhD Public Affairs - Indiana University (2019 - 2024 expected)  
+### PhD Public Affairs - Indiana University, 2024 expected  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
 * Policy Analysis  
 * Public Finance  
 * Faculty Advisors: Kosali Simon, Seth Freedman, Justin Ross  
 
-### MPA - Brigham Young University (2017 - 2019)  
+### MPA - Brigham Young University, 2019  
 * Minor in Information Systems  
 * Major field emphasis Program Management  
 * Minor field emphasis Healthcare  
