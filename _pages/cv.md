@@ -24,7 +24,7 @@ megdalynnfisher@outlook.com
     [Faculty profile](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html)  
   * Policy Analysis Major  
   * Public Finance Minor  
-> #### Dissertation Committee: Kosali Simon, Seth Freedman, Victoria Perez, Justin Ross, Coady Wing
+> #### Dissertation Committee: Kosali Simon (chair), Seth Freedman, Victoria Perez, Justin Ross, Coady Wing
 > * "Unintended Consequences of Policies on Healthcare Quality in the Long-term Care Market"
   
 ### MASTER OF PUBLIC ADMINISTRATION (2017 - 2019)  
@@ -33,7 +33,7 @@ megdalynnfisher@outlook.com
   * Program Management Major Emphasis  
   * Healthcare Minor Emphasis  
 > #### Advisors: Rob Christensen, Rex Facer, Andrew Heiss
-> * "Public Reporting of Utah Quality Measures in Collaboration with Total Cost of Care"
+> * "Enhancing healthcare transparency in Utah: Deriving a composite quality score for public use as a complement to the Total Cost of Care project"
   
 ### B.S. Economics (2014 - 2017)  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
@@ -65,13 +65,26 @@ megdalynnfisher@outlook.com
 
 # Research Experience
 
-RESEARCH ASSISTANT 8/2019 - PRESENT
+RESEARCH ASSISTANT 9/2017 - PRESENT
+
 ####    Indiana University, Bloomington, IN  
-  * Research and analysis for Kosali Simon: racial segregation and nursing homes, use of antipsychotic medications in the treatment of Alzheimer's disease and related dementias and serious mental illness, formal disruptions to care in the nursing facility market, hospital price transparency, Medicaid expansion and the Health and Retirement Study, patient sorting and provider characteristics, CARES Act relief funds, etc.
-  * Research and analysis for Seth Freedman and Victoria Perez: hospital advertising and market concentration, end of life care, healthcare quality, and the Section 340B drug pricing program.
-  * Analysis for Jennifer Silva: narrative analysis and assembly of qualitative patient interviews with electronic health records.
-  * Research and analysis for Victoria Perez: Medicaid Fraud Control Units and job turnover, COVID-19 and nursing home quality.
-  * Senior thesis advising for one to two undergraduate student capstone projects a semester, Spring 2022 - Spring 2023.
+
+Kosali Simon  
+  * Racial segregation and nursing homes, use of antipsychotic medications in the treatment of Alzheimer's disease and related dementias and serious mental illness, formal disruptions to care in the nursing facility market, hospital price transparency, Medicaid expansion and the Health and Retirement Study, patient sorting and provider characteristics, CARES Act relief funds, etc.
+
+Seth Freedman and Victoria Perez  
+  * Hospital advertising and market concentration, end of life care, healthcare quality, and the Section 340B drug pricing program.
+
+Jennifer Silva  
+  * Narrative analysis and assembly of qualitative patient interviews with electronic health records.
+
+Victoria Perez  
+  * Medicaid Fraud Control Units and job turnover, COVID-19 and nursing home quality.
+
+#### Brigham Young University, Provo, UT
+
+Mark Keith and Bill Taylor  
+  * Healthcare Industry Research Center, Brigham Young University.
 
 ----
 
@@ -97,11 +110,6 @@ OFFICE MANAGER	5/2012 – 8/2013
 > ####    Anderson Wood Law, Salt Lake City, UT  
 >   * Responsible for creating invoices, billing clients, filing documents, bookkeeping, and providing customer service.  
 
-
-CO-EDITOR, COLUMNIST	1/2008 – 8/2008  
-> ####    Ross University School of Medicine Student Newsletter, Commonwealth of Dominica	 
->   * Published and distributed the school’s newsletter as part of a two-person team.
->   * Increased readership by 24% and advertising accounts by 50%.
 
 
 ----
