@@ -16,16 +16,17 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 
 ## Highlights 
 
-### PhD Public Affairs - Indiana University, 2024 expected  
+### Graduate Education
+#### PhD Public Affairs - Indiana University, 2024 expected  
 * Faculty Advisors: Kosali Simon, Seth Freedman, Justin Ross  
 
-### MPA - Brigham Young University, 2019  
+#### MPA - Brigham Young University, 2019  
 * Advisors: Rob Christensen, Rex Facer, Andrew Heiss
 
-## Researach Interests
+### Researach Interests
 * Health economics and policy 
 
-## Teaching
+### Teaching
 * SPEA-V 202 Contemporary Economic Issues in Public Affairs (3 CR), 2022 Spring and 2021 Fall 
 
 ### Service
