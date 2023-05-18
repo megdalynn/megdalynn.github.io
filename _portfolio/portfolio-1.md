@@ -1,5 +1,5 @@
 ---
-title: "O'Neill Ph.D. Student Association Annual Student Research Conference Program"
+title: "O'Neill Ph.D. Student Association Webpage"
 excerpt: "2023 website and program for annual research conference"
 collection: portfolio
 ---
