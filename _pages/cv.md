@@ -137,11 +137,32 @@ OFFICE MANAGER,	5/2012 – 8/2013
 
 ----
 
+
 # Teaching Interests  
- * Health: Health Economics, Healthcare Services Delivery, Healthcare Finance
- * Economics: Introduction, Microeconomics, Contemporary Affairs, Public Policy, Principles, History, Labor, Econometrics, Development, and Poverty
- * Statistics: Introduction, Managerial, Data Analysis, Quantitative Analysis
- * Public Affairs: Program Evaluation, Policy Analysis, Finance
+> Health 
+>  * Health Economics
+>  * Healthcare Services Delivery
+>  * Healthcare Finance
+
+
+> Economics
+>  * Introduction, Principles, History
+>  * Microeconomics and Labor
+>  * Contemporary Affairs
+>  * Public Policy and Econometrics
+>  * Development and Poverty
+
+
+> Statistics
+>  * Introduction 
+>  * Managerial
+>  * Data and Quantitative Analysis
+
+
+> Public Affairs
+>  * Program Evaluation
+>  * Policy Analysis
+>  * Finance
 
 ----
 
