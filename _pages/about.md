@@ -23,7 +23,7 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 #### MPA - Brigham Young University, 2019  
 * Advisors: Rob Christensen, Rex Facer, Andrew Heiss
 
-### Researach Interests
+### Research Interests
 * Health economics and policy 
 
 ### Teaching
