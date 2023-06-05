@@ -176,13 +176,14 @@ Public Affairs
 
 
 # Awards, Honors, and Fellowships
+* Robert Agranoff PhD Fellowship, Indiana University, 2023 - 2024
 * Irsay Institute Fellowship, Indiana University, 2023 - 2024
 * Graduate Fellowship, Rumsfeld Foundation, 2019 - 2021
-* Stewart L. Grow Award (BYU)
-* MPA Academic Award (BYU)
-* Healthcare Industry Scholar
-* Summa Cum Laude (UVU)
-* Outstanding Student Award, Finance and Economics (UVU)
+* Stewart L. Grow Award, Brigham Young University, 2019
+* MPA Academic Award, Brigham Young University, 2019
+* Healthcare Industry Scholar, Brigham Young University, 2019
+* Summa Cum Laude, Utah Valley University, 2017
+* Outstanding Student Award, Finance and Economics, Utah Valley University, 2017
 
 
 ----
