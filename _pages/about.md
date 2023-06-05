@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Under Construction 5/17/2023
+## Under Construction 6/5/2023
 This website is still being built. Links and files may not work or exist yet. 
 
 ## Bio
@@ -36,6 +36,7 @@ I am a fourth-year PhD student studying policy analysis at the O'Neill School of
 * Economics Program Advisory Committee, Utah Valley University, 2021 - present  
   
 ### Fellowships
+* Robert Agranoff, 2023 - 2024
 * Irsay Institute, 2023 - 2024
 * Rumsfeld Foundation, 2019 - 2021  
 * Healthcare Industry Scholar, Marriott School of Business, 2018 - 2019  
