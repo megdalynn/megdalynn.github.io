@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-## Under Construction 6/15/2023
-Welcome to my website (which is still being built). Links and files may not work or exist, yet.
+## Welcome
+My website is under construction (links and files may not work or exist, yet). Please feel free to reach out to me with any questions!
 
 ## Bio
-I am entering my fifth-year as a PhD student studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. The best part of my career is how academia combines my love for research with my passion for teaching and serving others. I plan on making the world a better place through my efforts to analyze and communicate aboute healthcare policy, advance theory-based research, and inspire public service through constructive learning activities. My dissertation is focused in long-term care policies and finance.
+I am PhD candidate (entering my fifth-year) studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. The best part of my career is how academia combines my love for research with my passion for teaching and serving others. I plan on making the world a better place through my efforts to analyze and communicate about healthcare policy, advance theory-based research, and inspire public service through constructive learning activities. 
+My research examines how long-term care policies and financing institutions impact nursing home residents in the United States. You'll often find me at the YMCA (dancing, practicing yoga, lifting weights), but I also spend my free-time sharing my love for music (whether on stage, in the pit, or teaching). 
 
 ## Highlights 
 
