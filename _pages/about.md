@@ -12,7 +12,7 @@ redirect_from:
 Welcome to my website (which is still being built). Links and files may not work or exist, yet.
 
 ## Bio
-I am a fourth-year PhD student studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. The best part of my career is how academia combines my love for research with my passion for teaching and serving others. I plan on making the world a better place through my efforts to analyze healthcare policy, advance theory-based research, and inspire public service through constructive learning activities. 
+I am entering my fifth-year as a PhD student studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. The best part of my career is how academia combines my love for research with my passion for teaching and serving others. I plan on making the world a better place through my efforts to analyze and communicate aboute healthcare policy, advance theory-based research, and inspire public service through constructive learning activities. 
 
 ## Highlights 
 
