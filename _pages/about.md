@@ -27,7 +27,7 @@ My research examines how long-term care policies and financing institutions impa
 * Advisors: Rob Christensen, Rex Facer, Andrew Heiss
 
 ### Fellowships
-* Irsay Institute, 2023 - 2024
-* Agranoff, 2023 - 2024
-* Rumsfeld Foundation, 2019 - 2021
-* Healthcare Industry Scholar, Marriott School of Business, 2018 - 2019
+* [Irsay Institute](https://irsay.iu.edu/index.html), 2023 - 2024
+* [Agranoff](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/agranoff-robert.html), 2023 - 2024
+* [Rumsfeld Foundation](https://www.rumsfeldfoundation.org/public_service/graduate_fellowships), 2019 - 2021
+* [Healthcare Industry Scholar](https://marriott.byu.edu/hlc/), 2018 - 2019
