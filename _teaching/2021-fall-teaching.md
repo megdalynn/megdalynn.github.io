@@ -7,6 +7,6 @@ venue: "Indiana University, O'Neill School of Public and Environmental Affairs"
 date: 2021-08-13
 location: "Bloomington, Indiana"
 ---
-
+Instructor of record.
 Fall Semester (3 cr.)  
 See description, above.
