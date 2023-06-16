@@ -7,7 +7,7 @@ venue: "Indiana University, O'Neill School of Public and Environmental Affairs"
 date: 2022-01-11
 location: "Bloomington, Indiana"
 ---
-Instructor of record.
+
 Spring Semester (3 cr.)  
 This course reinforces and deepens economic skills by applying basic microeconomic concepts
 and models to a variety of policy areas. Using economic models, students in the course will
