@@ -17,4 +17,4 @@ The number of nursing home residents with schizophrenia has increased due to the
 
 [Download paper here](http://academicpages.github.io/files/nh_apm.pdf)
 
-Recommended citation: Bowblis, John, Megdalynn Fisher, Kosali Simon. "Nursing Home Use of Antipsychotics: Does Public Reporting Incentivize Gaming?" <i>forthcoming</i>. 1(3).
+Recommended citation: Bowblis, John, Megdalynn Fisher, Kosali Simon. "Nursing Home Use of Antipsychotics: Does Public Reporting Incentivize Gaming?" <i>forthcoming</i>. 
