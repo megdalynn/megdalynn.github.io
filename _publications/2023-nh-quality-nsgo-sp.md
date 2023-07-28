@@ -1,5 +1,5 @@
 ---
-title: "Is Government Acquisition of Nursing Homes an Improvement? Medicaid Supplemental Payments to Non-State Government-Owned Nursing Facilities, Quality, and Enforcement"
+title: "Government Intervention in Nursing Homes: Assessing Ownership Dynamics and Quality of Care Under Non-State Government Owned Supplemental Payment Programs"
 collection: publications
 permalink: /publication/2023-nh-quality-nssgo-sp
 author: Megdalynn Fisher
@@ -14,4 +14,4 @@ Do subsidies through Non-State Government Owned nursing facility supplemental pa
 
 <!--- [Download paper here](http://academicpages.github.io/files/nh-quality-nsgo-sp.pdf) --->
 
-Recommended citation: Fisher, Megdalynn. "Is Government Acquisition of Nursing Homes an Improvement? Medicaid Supplemental Payments to Non-State Government-Owned Nursing Facilities, Quality, and Enforcement" <i>forthcoming</i>. 1(3).
+Recommended citation: Fisher, Megdalynn. "Government Intervention in Nursing Homes: Assessing Ownership Dynamics and Quality of Care Under Non-State Government Owned Supplemental Payment Programs" <i>forthcoming</i>. 1(3).
