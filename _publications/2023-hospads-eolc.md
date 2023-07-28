@@ -17,4 +17,4 @@ Does hospital advertising inform patient choice or represent 'cheap talk'? We in
 
 <!--- [Download paper here](http://academicpages.github.io/files/paper1.pdf) --->
 
-Recommended citation: Freedman, Seth, Victoria Perez, Megdalynn Fisher. &quot;End of Life Inpatient Spending and Hospital Advertising&quot; <i>forthcoming 1</i>.
+Recommended citation: Freedman, Seth, Victoria Perez, Megdalynn Fisher. &quot;End of Life Inpatient Spending and Hospital Advertising&quot; <i>forthcoming </i>.
