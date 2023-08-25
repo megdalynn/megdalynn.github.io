@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.wip reversed %}
+{% for post in site.wip %}
   {% include archive-single.html %}
 {% endfor %}
