@@ -4,7 +4,6 @@ collection: wip
 permalink: /wip/2023-nh-quality-nssgo-sp
 author: Megdalynn Fisher
 excerpt: "Do subsidies through Non-State Government Owned nursing facility supplemental payment programs spur government acquisitions and do the subsidies translate to fewer deficiencies and better quality?"
-date: 2024
 venue: 'working paper'
 paperurl: '<!---http://academicpages.github.io/files/nh-quality-nsgo-sp.pdf --->'
 citation: "Fisher, Megdalynn. &quot;Is Government Acquisition of Nursing Homes an Improvement? Medicaid Supplemental Payments to Non-State Government-Owned Nursing Facilities, Quality, and Enforcement&quot; <i>work in progress 1</i>."
