@@ -14,4 +14,4 @@ We contribute to the literature measuring segregation in the health care setting
 
 <!--- [Download paper here](http://academicpages.github.io/files/nh-racial-sorting.pdf) --->
 
-Recommended citation: Bowblis, John, Megdalynn Fisher, and Kosali Simon. &quot;Racial Sorting Among Nursing Home Residents&quot; <i>work in progress 1</i>.
+Recommended citation: Bowblis, John, Megdalynn Fisher, and Kosali Simon. &quot;Racial Sorting Among Nursing Home Residents&quot; <i>working paper</i>.
