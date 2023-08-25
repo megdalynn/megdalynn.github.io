@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "Work in Progress" 
-    url: work-in-progress/ 
+    url: /wip/ 
     
   - title: "CV"
     url: /cv/
