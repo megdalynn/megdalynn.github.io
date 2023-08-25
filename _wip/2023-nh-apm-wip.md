@@ -7,7 +7,6 @@ author:
   - Megdalynn Fisher
   - Kosali Simon
 excerpt: "The number of nursing home residents with schizophrenia has increased due to their exemption from the requirement for antipsychotic medication quality reporting. Since public reporting incentivizes either more accurate diagnosis or upcoding, we examine these effects at the reporting threshold based on number of residents in the facility."
-date: 2024
 venue: 'working paper'
 paperurl: '<!--- http://academicpages.github.io/files/nh_apm.pdf--->'
 citation: "Bowblis, John, Megdalynn Fisher, Kosali Simon. &quot;Nursing Home Use of Antipsychotics: Does Public Reporting Incentivize Gaming?&quot; <i>work in progress 1</i>."
