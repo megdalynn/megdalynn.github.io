@@ -1,6 +1,6 @@
 ---
 title: "Antipsychotic Medication Use Among Nursing Home Residents with Alzheimer's Disease and Related Dementias: Ownership Structures and Racial Disparities"
-collection: publications
+collection: wip
 permalink: /wip/2023-nh-adrd-apm
 author:
   - John Bowblis
