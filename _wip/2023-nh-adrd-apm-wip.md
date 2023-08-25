@@ -8,7 +8,7 @@ author:
   - Judith Lucas
   - Kosali Simon
 excerpt: "Are nursing home residents with Alzheimer's disease and related dementias (ADRD) receive antipyschotic medications more often than residents with other severe mental illnesses? What disparities in treatment through antipsychotic medications are present in nursing homes? We explore the relationships between race, payment, dementia, serious mental illness, and ADRD."
-date: 2023-05-16
+date: 2023-13-32
 venue: 'working paper'
 paperurl: ''
 citation: "Bowblis, John, Megdalynn Fisher, Shruthi Jayashankar, Judith Lucas, Kosali Simon. &quot;Antipsychotic Medication Use Among Nursing Home Residents with Alzheimer's Disease and Related Dementias: Ownership Structures and Racial Disparities.&quot; <i>work in progress</i>."
