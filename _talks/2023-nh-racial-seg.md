@@ -3,7 +3,7 @@ title: "Racial and Ethnic Segregation in Nursing Homes"
 collection: talks
 type: "Presentation"
 permalink: /talks/2023-nh-racial-seg
-venue: "O'Neill Ph.D. Student Association Annual Student Research Conference"
+venue: "Midwest Health Economics Conference"
 date: 2023-09-08
 location: "DePaul University, Chicago, Illinois"
 ---
