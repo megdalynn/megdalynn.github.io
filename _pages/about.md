@@ -15,7 +15,7 @@ Please feel free to reach out to me with any questions!
 I am a PhD candidate (entering my fifth-year) studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. 
 My research examines how long-term care policies and financing institutions impact nursing home residents in the United States. 
 
-*I'm entering the job market this Fall, 2023.* 
+*I'm entering the job market next Fall, 2024.* 
 
 ## Highlights 
 
