@@ -25,7 +25,7 @@ megdalynnfisher@outlook.com
   * Policy Analysis Major  
   * Public Finance Minor  
 > #### Dissertation Committee: Kosali Simon (chair), Seth Freedman, Victoria Perez, Justin Ross, Coady Wing
-> * Dissertation: "Unintended Consequences of Policies on Healthcare Quality in the Long-term Care Market"
+> * Dissertation: "Unintended Consequences in Healthcare Quality: The Case of Long-term Care"
   
 ### MASTER OF PUBLIC ADMINISTRATION, 2019  
   Marriott School of Business, Brigham Young University (BYU), Provo, UT  
