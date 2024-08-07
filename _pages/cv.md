@@ -21,7 +21,7 @@ megdalynnfisher@outlook.com
 # Education  
 ### Ph.D. PUBLIC AFFAIRS, 2024 expected  
   O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN  
-    [PhD Candidate profile]([https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/fisher-megdalynn-star.html](https://oneill.indiana.edu/doctoral/student-profiles/fisher-megdalynn.html))  
+    [PhD Candidate profile]([(https://oneill.indiana.edu/doctoral/student-profiles/fisher-megdalynn.html)])  
   * Policy Analysis Major  
   * Public Finance Minor  
 > #### Dissertation Committee: Kosali Simon (chair), Seth Freedman, Victoria Perez, Justin Ross, Coady Wing
