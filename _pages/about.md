@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ## Welcome
-Please feel free to reach out to me with any questions! [IU Profile](https://oneill.indiana.edu/doctoral/student-profiles/fisher-megdalynn.html)
+Please feel free to reach out to me with any questions! 
+[IU Profile](https://oneill.indiana.edu/doctoral/student-profiles/fisher-megdalynn.html)
 
 ## Bio
 I am a PhD candidate studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. 
