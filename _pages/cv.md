@@ -22,27 +22,27 @@ megdalynnfisher@outlook.com
 ### Ph.D. PUBLIC AFFAIRS, 2025 expected  
   O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN  
     [PhD Candidate profile]([(https://oneill.indiana.edu/doctoral/student-profiles/fisher-megdalynn.html)])  
-  * Policy Analysis Major  
-  * Public Finance Minor  
 > #### Dissertation Committee: Kosali Simon (chair), Seth Freedman (co-chair), Justin Ross, Coady Wing
 > * Dissertation: "Policy and Unintended Consequences in Healthcare Quality: The Case of Long-term Care"
   
 ### MASTER OF PUBLIC ADMINISTRATION, 2019  
   Marriott School of Business, Brigham Young University (BYU), Provo, UT  
-  * Information Systems Minor  
-  * Program Management Major Emphasis  
-  * Healthcare Minor Emphasis  
 > #### Advisors: Rob Christensen, Rex Facer, Andrew Heiss
 > * Capstone: "Enhancing healthcare transparency in Utah: Deriving a composite quality score for public use as a complement to the Total Cost of Care project"
   
 ### B.S. Economics, 2017  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
-> #### Advisor: Maritza Sotomayor  
-> * Capstone: "Global Food Prices and Utah Childhood Poverty Rates"  
 
 
 ----
 
+# Research Interests  
+* Health economics and policy 
+* Healthcare and public finance
+* Healthcare labor market 
+* Healthcare quality and services
+
+----
 
 # Publications  
 
@@ -130,15 +130,6 @@ OFFICE MANAGER,	5/2012 – 8/2013
 > ####    Anderson Wood Law, Salt Lake City, UT  
 >   * Responsible for creating invoices, billing clients, filing documents, bookkeeping, and providing customer service.  
 
-
-
-----
-
-# Research Interests  
-* Health economics and policy 
-* Healthcare and public finance
-* Healthcare labor market 
-* Healthcare quality and services
 
 ----
 
