@@ -24,7 +24,7 @@ megdalynnfisher@outlook.com
     [PhD Candidate profile]([(https://oneill.indiana.edu/doctoral/student-profiles/fisher-megdalynn.html)])  
   * Policy Analysis Major  
   * Public Finance Minor  
-> #### Dissertation Committee: Kosali Simon (chair), Seth Freedman, Justin Ross, Coady Wing
+> #### Dissertation Committee: Kosali Simon (chair), Seth Freedman (co-chair), Justin Ross, Coady Wing
 > * Dissertation: "Policy and Unintended Consequences in Healthcare Quality: The Case of Long-term Care"
   
 ### MASTER OF PUBLIC ADMINISTRATION, 2019  
