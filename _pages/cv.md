@@ -44,6 +44,14 @@ megdalynnfisher@outlook.com
 
 ----
 
+# Work in Progress
+
+  <ul>{% for post in site._wip reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+----
+
 # Publications  
 
   <ul>{% for post in site.publications reversed %}
