@@ -46,7 +46,7 @@ megdalynnfisher@outlook.com
 
 # Work in Progress
 
-  <ul>{% for post in site._wip reversed %}
+  <ul>{% for post in site.wip reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
