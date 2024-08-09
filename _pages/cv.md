@@ -208,10 +208,11 @@ Public Affairs
 
 
 # Professional Memberships
-*	Association for Public Policy Analysis and Management
-*	American Society for Public Administration
-*	Public Management Research Association
-*	American Society of Health Economists 
-*	Association for Budgeting and Financial Management
-*	American Economics Association
-*	American College of Healthcare Executives
+*	[Association for Public Policy Analysis and Management](https://www.appam.org/)
+*	[American Society for Public Administration](https://www.aspanet.org/)
+*	[Public Management Research Association](https://pmranet.org/)
+*	[American Society of Health Economists](https://www.ashecon.org/) 
+*	[Association for Budgeting and Financial Management](https://abfm.org/)
+*	[American Economics Association](https://www.aeaweb.org/)
+*	[American College of Healthcare Executives](https://www.ache.org/)
+*	[AcademyHealth](https://academyhealth.org/)
