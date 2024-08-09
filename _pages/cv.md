@@ -176,7 +176,7 @@ Public Affairs
 
 # Awards, Honors, and Fellowships
 * Robert Agranoff PhD Fellowship, Indiana University, 2023 - 2024
-* Irsay Institute Fellowship, Indiana University, 2023 - 2024
+* [Irsay Institute Fellowship](https://irsay.iu.edu/about/people/megdalynn-fisher/), Indiana University, 2023 - 2024
 * Graduate Fellowship, Rumsfeld Foundation, 2019 - 2021
 * Stewart L. Grow Award, Brigham Young University, 2019
 * MPA Academic Award, Brigham Young University, 2019
