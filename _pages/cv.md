@@ -19,7 +19,7 @@ megdalynnfisher@outlook.com
 
 
 # Education  
-### Ph.D. PUBLIC AFFAIRS, 2024 expected  
+### Ph.D. PUBLIC AFFAIRS, 2025 expected  
   O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN  
     [PhD Candidate profile]([(https://oneill.indiana.edu/doctoral/student-profiles/fisher-megdalynn.html)])  
   * Policy Analysis Major  
