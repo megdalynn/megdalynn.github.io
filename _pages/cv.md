@@ -37,8 +37,8 @@ megdalynnfisher@outlook.com
 ----
 
 # Research Interests  
-* Health economics and policy 
-* Healthcare and public finance
+* Public policy and health economics
+* Public Finance and health
 * Healthcare labor market 
 * Healthcare quality and services
 
