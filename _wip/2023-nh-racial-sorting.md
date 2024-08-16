@@ -1,5 +1,5 @@
 ---
-title: "Racial Sorting Among Nursing Home Residents"
+title: "Racial Sorting Among Nursing Home Residents, 2011-2017"
 collection: wip
 permalink: /wip/2023-nh-racial-sorting
 author: John Bowbliss, Megdalynn Fisher, Madeline Mustaine, Kosali Simon
@@ -13,4 +13,4 @@ We contribute to the literature measuring segregation in the health care setting
 
 <!--- [Download paper here](http://academicpages.github.io/files/nh-racial-sorting.pdf) --->
 
-Recommended citation: Bowblis, John, Megdalynn Fisher, Madeline Mustaine, and Kosali Simon. &quot;Racial Sorting Among Nursing Home Residents&quot; <i>working paper</i>.
+Recommended citation: Bowblis, John, Megdalynn Fisher, Madeline Mustaine, and Kosali Simon. &quot;Racial Sorting Among Nursing Home Residents, 2011-2017&quot; <i>working paper</i>.
