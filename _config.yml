@@ -45,7 +45,7 @@ author:
   dribbble         : # Username
   github           : "megdalynn"
   kaggle           : # Username  
-  stackoverflow    : "14121571"    
+  stackoverflow    : # "14121571"    
 
   # Social media
   bluesky          : # "bsky.app" # Replace this with you Bluesky username
@@ -58,7 +58,7 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : "megdalynnfisher"
-  mastodon         : "@megdalynn@econtwitter.net"
+  mastodon         : # "@megdalynn@econtwitter.net"
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
