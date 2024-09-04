@@ -23,6 +23,7 @@ My research examines how long-term care policies and financing institutions impa
 
 ### Graduate Education
 #### PhD Public Affairs - Indiana University, 2025 expected  
+* Dissertation: Policy and Unintended Consequences in Healthcare Quality: The Case of Long-term Care
 * Dissertation Committee: Kosali Simon (chair), Seth Freedman (co-chair), Justin Ross, and Coady Wing  
 
 #### MPA - Brigham Young University, 2019  
