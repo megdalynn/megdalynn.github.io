@@ -18,9 +18,6 @@ among others. To better understand these issues, the course will first briefly d
 the institutional details of the policy area, and then use economic models to examine impact of
 policy on behavior and market outcomes.
 
-![Fall 2021 Evals Chart](/images/fall2021.png)
-![Fall 2021 Evals Table](/images/F2021.png)
-
 What did you like most about this course and instructor?
 > Professor Fisher is definitely my favorite professor that I have had at IU so far. Crazy that she is new to teaching and is already so great.
 
@@ -34,3 +31,7 @@ What did you like least about this course and instructor?
 > I did not like the quizzes at first
 
 > Overall, I really enjoyed this course and instructor.
+
+
+![Fall 2021 Evals Chart](/images/fall2021.png)
+![Fall 2021 Evals Table](/images/F2021.png)
