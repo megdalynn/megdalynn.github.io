@@ -27,7 +27,3 @@ In our research using the Minimum Data Set from 2011-2017, we first explore diff
 
 <!--- [Download paper here](http://academicpages.github.io/files/paper1.pdf) --->
 
-## Recommended citation: 
-
-
-Bowblis, John, Megdalynn Fisher, Judith Lucas, and Kosali Simon. "Antipsychotic Medication Use Among ADRD Nursing Home Residents: Ownership Structures and Racial Disparities" <i>working paper</i>. 
