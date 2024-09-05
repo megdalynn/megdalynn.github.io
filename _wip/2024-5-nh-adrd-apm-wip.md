@@ -1,7 +1,7 @@
 ---
 title: "Antipsychotic Medication Use Among Nursing Home Residents with Alzheimer's Disease and Related Dementias: Ownership Structures"
 collection: wip
-permalink: /wip/2023-nh-adrd-apm
+permalink: /wip/2024-5-nh-adrd-apm
 author:
   - John Bowblis
   - Megdalynn Fisher
