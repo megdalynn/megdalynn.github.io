@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.wip %}
+{% for post in site.wip | sort: 'priority' %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -39,3 +39,8 @@ author_profile: true
 {% for post in sorted_wip %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% for post in site.wip %}
+  {% include archive-single.html %}
+{% endfor %}
+
