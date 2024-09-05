@@ -19,7 +19,3 @@ Nursing homes are thought to be among the most racially segregated of health car
 
 
 <!--- [Download paper here](http://academicpages.github.io/files/nh-racial-sorting.pdf) --->
-
-## Recommended citation: 
-
-Bowblis, John, Megdalynn Fisher, Madeline Mustaine, and Kosali Simon. &quot;Racial Sorting Among Nursing Home Residents, 2011-2017&quot; <i>working paper</i>.
