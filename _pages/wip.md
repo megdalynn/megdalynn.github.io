@@ -11,10 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign sorted_wip = site.wip | sort: 'priority' %}
-{% for post in sorted_wip %}
+{% for post in site.wip %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+
 
 
 
@@ -33,6 +35,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.wip %}
+{% assign sorted_wip = site.wip | sort: 'priority' %}
+{% for post in sorted_wip %}
   {% include archive-single.html %}
 {% endfor %}
