@@ -7,6 +7,6 @@ excerpt: "Medicaid expansion has increased the number of nursing home (NH) resid
 venue: 'working paper'
 priority: 6
 # paperurl: '<!---http://academicpages.github.io/files/medicaid-expansion.pdf --->'
-citation: Bowblis, John, Megdalynn Fisher, Madeline Mustaine, and Kosali Simon. &quot;Medicaid Expansion and Nursing Home Outcomes&quot; <i>working paper</i>.
+citation: Bowblis, John, Megdalynn Fisher, Madeline Mustaine, and Kosali Simon. &quot;Medicaid Expansion and Nursing Home Outcomes&quot; <i>work in progress</i>.
 ---
 <!--- [Download paper here](http://academicpages.github.io/files/medicaid-expansion.pdf) --->
