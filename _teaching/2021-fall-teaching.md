@@ -20,3 +20,5 @@ policy on behavior and market outcomes.
 
 ![Fall 2021 Evals Chart](/images/fall2021.png)
 ![Fall 2021 Evals Table](/images/F2021.png)
+
+What did you like most about this course and instructor?
