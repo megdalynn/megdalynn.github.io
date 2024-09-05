@@ -1,6 +1,6 @@
 ---
 title: "Health Economics, SPEA-H354"
-collection: teaching
+collection: invites
 type: "Guest Lecture"
 permalink: /invites/2024-guest-lecture
 venue: "Indiana University, O'Neill School of Public and Environmental Affairs"
