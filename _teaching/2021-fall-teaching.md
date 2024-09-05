@@ -18,4 +18,5 @@ among others. To better understand these issues, the course will first briefly d
 the institutional details of the policy area, and then use economic models to examine impact of
 policy on behavior and market outcomes.
 
-![Fall 2021 Evals](/images/fall2021.png)
+![Fall 2021 Evals Chart](/images/fall2021.png)
+![Fall 2021 Evals Table](/images/F2021.png)
