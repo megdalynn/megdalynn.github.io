@@ -33,7 +33,3 @@ We verify prior findings that overall APM medication of long-term stay residents
 However, we find novel evidence from regression and event study analysis that there was also systematic upcoding: we find that diagnosis of schizophrenia, an exclusionary diagnosis, is increasing in nursing homes subject to public reporting, after the policy, by 3.2% (95% CI: 1.5 to 4.9) among residents with APM prescriptions. We also find evidence consistent with cream skimming: we find a reduction of admissions of patients with bipolar disorder, who are not excluded, but who often require APMs. We do not/do find evidence of prescribing of substitutes for APMs. Taken together, this evidence suggests that policy makers intending to improve quality in nursing homes through transparency of quality metrics should be aware of possible unintended consequences.
 
 
-## Recommended citation: 
-
-
-Bowblis, John, Megdalynn Fisher, Kosali Simon. "Nursing Home Use of Antipsychotics: Does Public Reporting Incentivize Gaming?" <i>working paper</i>. 
