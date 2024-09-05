@@ -10,7 +10,7 @@ excerpt: "The number of nursing home residents with schizophrenia has increased 
 venue: 'working paper'
 date: 2024-04-05
 priority: 3
-paperurl: '<!--- http://academicpages.github.io/files/nh_apm.pdf--->'
+# paperurl: '<!--- http://academicpages.github.io/files/nh_apm.pdf--->'
 citation: "Bowblis, John, Megdalynn Fisher, Kosali Simon. &quot;Nursing Home Use of Antipsychotics: Does Public Reporting Incentivize Gaming?&quot; <i>work in progress</i>."
 ---
 
