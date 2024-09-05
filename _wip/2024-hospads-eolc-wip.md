@@ -23,7 +23,3 @@ In recent decades, hospitals have increased their advertising expenditures. How 
 
 <!--- [Download paper here](http://academicpages.github.io/files/paper1.pdf) --->
 
-## Recommended citation: 
-
-
-Freedman, Seth, Victoria Perez, Megdalynn Fisher. &quot;End of Life Inpatient Spending and Hospital Advertising&quot; <i>under review</i>.
