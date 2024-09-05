@@ -9,6 +9,7 @@ author:
   - Kosali Simon
 excerpt: "Do nursing home residents with Alzheimer's disease and related dementias (ADRD) receiving antipyschotic medications more often based on ownership structures, and do rates of diagnosis excluding public reporting requirements of antipsychotic medication use differ by these ownership structures?"
 venue: 'working paper'
+priority: 5
 # paperurl: ''
 citation: "Bowblis, John, Megdalynn Fisher, Judith Lucas, Kosali Simon. &quot;Antipsychotic Medication Use Among Nursing Home Residents with Alzheimer's Disease and Related Dementias: Ownership Structures and Racial Disparities.&quot; <i>work in progress</i>."
 ---
