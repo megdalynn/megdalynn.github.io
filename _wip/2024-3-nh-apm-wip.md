@@ -1,7 +1,7 @@
 ---
 title: "Nursing Home Use of Antipsychotics: Does Public Reporting Incentivize Gaming?"
 collection: wip
-permalink: /wip/2024-nh-apm-wip
+permalink: /wip/2024-3-nh-apm-wip
 author:
   - John Bowblis
   - Megdalynn Fisher
