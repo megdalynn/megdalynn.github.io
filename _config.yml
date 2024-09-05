@@ -215,6 +215,9 @@ collections:
   wip:
     output: true
     permalink: /:collection/:path/
+  invites:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
