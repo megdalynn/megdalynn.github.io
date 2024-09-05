@@ -215,6 +215,9 @@ collections:
   wip:
     output: true
     permalink: /:collection/:path/
+    sort_by:
+      - "priority"
+      - "date"  # Secondary sorting by date if priorities are the same
   invites:
     output: true
     permalink: /:collection/:path/
