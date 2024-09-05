@@ -1,21 +1,15 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## Welcome
-Please feel free to reach out to me with any questions! 
-
-[IU Profile](https://oneill.indiana.edu/doctoral/student-profiles/fisher-megdalynn.html)
-
 ## Bio
-I am a PhD candidate studying policy analysis at the O'Neill School of Public and Environmental Affairs, with minor emphasis in public finance. 
-My research examines how long-term care policies and financing institutions impact nursing home residents in the United States. 
+I am a PhD Candidate at the O’Neill School of Public and Environmental Affairs, Indiana University. My research examines the intersection of healthcare policy and public finance, with a focus on the unintended consequences of policies in healthcare settings, particularly in nursing homes. My dissertation explores the effects of federal, state, and federal-state partnership programs on healthcare quality in nursing homes, analyzing issues such as antipsychotic medication use reporting, racial and ethnic composition shifts in long-term care, and the impact of state subsidies on nursing home ownership and quality outcomes. I enjoy teaching economics and mentoring honors students in their Senior theses at the O’Neill School. My work has been published by the National Council on Undergraduate Research and the Journal of Student Leadership.
 
 *I'm entering the job market this Fall, 2024.* 
 
