@@ -23,10 +23,14 @@ policy on behavior and market outcomes.
 
 What did you like most about this course and instructor?
 > Professor Fisher is definitely my favorite professor that I have had at IU so far. Crazy that she is new to teaching and is already so great.
+
 > I liked how this class was taught. The transition of the articles with the lessons helped prepare me for each class.
+
 > She was very flexible with her teaching, striving to meet the interests of the students. At the same time, she fit the syllabus and worked to make sure the class could be enjoyable given requirements.
 
 What did you like least about this course and instructor?
 > She was perfect!
+
 > I did not like the quizzes at first
+
 > Overall, I really enjoyed this course and instructor.
