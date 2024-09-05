@@ -1,7 +1,7 @@
 ---
 title: "Government Intervention in Nursing Homes: Assessing Ownership Dynamics and Quality of Care Under Non-State Government Owned Supplemental Payment Programs"
 collection: wip
-permalink: /wip/2024-nh-quality-nssgo-sp
+permalink: /wip/2024-1-nh-quality-nssgo-sp
 author: Megdalynn Fisher
 excerpt: "Do subsidies through Non-State Government Owned nursing facility supplemental payment programs spur government acquisitions and do the subsidies translate to fewer deficiencies and better quality?"
 venue: 'job market paper'
