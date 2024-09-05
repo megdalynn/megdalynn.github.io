@@ -5,9 +5,9 @@ authors:
   - Victoria Perez
   - Megdalynn Fisher
 collection: wip
-permalink: /wip/2023-hospads-eolc
+permalink: /wip/2024-hospads-eolc
 excerpt: "Does hospital advertising inform patient choice or represent 'cheap talk'? We investigate the hospital advertising at the market level, establishing a correlation with end-of-life inpatient spending, a proxy for geographical differences in hospital spending on care with a uniform outcome."
-date: 2023-05-16
+date: 2024-05-16
 venue: 'under review'
 paperurl: ''
 priority: 2  
