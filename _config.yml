@@ -218,7 +218,7 @@ collections:
     sort_by:
       - "priority"
       - "date"  # Secondary sorting by date if priorities are the same
-    sort_order: ascending
+    sort_order: descending
   invites:
     output: true
     permalink: /:collection/:path/
