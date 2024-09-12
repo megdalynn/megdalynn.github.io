@@ -15,5 +15,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.prep | sort: 'priority' %}
-  {% include archive-single.html %}
+  {% include archive-single-talk.html %}
 {% endfor %}
