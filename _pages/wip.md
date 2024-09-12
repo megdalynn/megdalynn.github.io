@@ -16,11 +16,8 @@ author_profile: true
 # In Preparation
 Fisher, Megdalynn, Ari Ne'eman, Kosali Simon. "Resident Intent to Return to the Community: Implications of Facility Quality and Ownership on Transition Patterns."
 
+Bowblis, John, Megdalynn Fisher, Lady Ikeya, Madeline Mustaine, Kosali Simon. "Racial Sorting Among Nursing Home Residents."
 
+Bowblis, John, Megdalynn Fisher, Apoorva Gurtu, Kosali Simon, Coady Wing. "Medical Marijuana and Nursing Homes."
 
-<!---
-{% include base_path %}
-
-{% for post in site.prep | sort: 'priority' %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+Bowblis, John, Megdalynn Fisher, Apoorva Gurtu, Kosali Simon. "Climate Change and Environmental Impacts on Nursing Home Outcomes."
