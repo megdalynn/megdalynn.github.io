@@ -44,6 +44,8 @@
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'wip' %}
           <p>Work in Progress: <i>{{ post.venue }}</i></p>
+        {% elsif post.collection == 'prep' %}
+          <p>In Preparation:</strong> <i>{{ post.venue }}</i></p>
         {% elsif post.collection == 'invites' %}
           <p><strong>Invited Talk:</strong> <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
