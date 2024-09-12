@@ -11,7 +11,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+
+
 # In Preparation
+
+<!---
 {% include base_path %}
 
 {% for post in site.prep | sort: 'priority' %}
