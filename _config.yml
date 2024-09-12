@@ -217,6 +217,9 @@ collections:
     permalink: /:collection/:path/
     sort_by: priority
     sort_order: ascending
+  prep:
+    output: true
+    permalink: /:collection/:path/
   invites:
     output: true
     permalink: /:collection/:path/
