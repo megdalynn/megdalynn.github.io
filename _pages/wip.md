@@ -14,6 +14,9 @@ author_profile: true
 
 
 # In Preparation
+Fisher, Megdalynn, Ari Ne'eman, Kosali Simon. "Resident Intent to Return to the Community: Implications of Facility Quality and Ownership on Transition Patterns."
+
+
 
 <!---
 {% include base_path %}
