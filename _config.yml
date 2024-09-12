@@ -217,9 +217,6 @@ collections:
     permalink: /:collection/:path/
     sort_by: priority
     sort_order: ascending
-  invites:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -286,15 +283,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _invites
-  - scope:
-      path: ""
-      type: invites
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+
 
 # Sass/SCSS
 sass:
