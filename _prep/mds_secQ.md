@@ -1,5 +1,5 @@
 ---
-title: "Long-term Care"
+title: "Resident Intent to Return to the Community: Implications of Facility Quality and Ownership on Transition Patterns"
 collection: prep
 # permalink: /prep/mds_secQ
 author: Megdalynn Fisher, Ari Ne'eman, Kosali Simon
