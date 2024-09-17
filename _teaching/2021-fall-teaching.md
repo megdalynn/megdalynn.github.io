@@ -31,3 +31,5 @@ What did you like least about this course and instructor?
 > I did not like the quizzes at first
 
 > Overall, I really enjoyed this course and instructor.
+
+[View Fall 2021 Teaching Evaluations](/portfolio/F2021_teaching_evals.html)
