@@ -32,6 +32,3 @@ What did you like least about this course and instructor?
 
 > Nothing, this was actually like the most amazing and structured class with an even better professor, and I don’t even usually like economics!!!
 
-
-![Spring 2022 Evals Chart](/images/spring2022.png)
-![Spring 2022 Evals Table](/images/Sp2022.png)
