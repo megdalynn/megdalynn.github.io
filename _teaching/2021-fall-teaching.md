@@ -32,4 +32,4 @@ What did you like least about this course and instructor?
 
 > Overall, I really enjoyed this course and instructor.
 
-[View Fall 2021 Teaching Evaluations](megdalynn.github.io/_portfolio/F2021_teaching_evals.html)
+[View Fall 2021 Teaching Evaluations](/_portfolio/F2021_teaching_evals.html)
