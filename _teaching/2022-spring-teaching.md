@@ -32,4 +32,4 @@ What did you like least about this course and instructor?
 
 > Nothing, this was actually like the most amazing and structured class with an even better professor, and I don’t even usually like economics!!!
 
-[View Spring 2022 Teaching Evaluations](/portfolio/Sp2022_teaching_evals.html)
+[View Spring 2022 Teaching Evaluations](/_portfolio/Sp2022_teaching_evals.html)
