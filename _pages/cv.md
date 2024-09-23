@@ -184,6 +184,7 @@ UNDERGRADUATE	3/2022 – PRESENT
 ---
 
 # Awards, Honors, and Fellowships
+* Roy W. Shin PhD Fellowship, Indiana University, 2024 - 2025
 * Robert Agranoff PhD Fellowship, Indiana University, 2023 - 2024
 * [Irsay Institute Fellowship](https://irsay.iu.edu/about/people/megdalynn-fisher/), Indiana University, 2023 - 2024
 * Graduate Fellowship, Rumsfeld Foundation, 2019 - 2021
