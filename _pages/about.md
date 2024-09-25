@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Bio
-I am a PhD Candidate at the O’Neill School of Public and Environmental Affairs, Indiana University. My research examines the intersection of healthcare policy and public finance, with a focus on the unintended consequences of policies in healthcare settings, particularly in nursing homes. My dissertation explores the effects of federal, state, and federal-state partnership programs on healthcare quality in nursing homes, analyzing issues such as antipsychotic medication use reporting, racial and ethnic composition shifts in long-term care, and the impact of state subsidies on nursing home ownership and quality outcomes. I enjoy teaching economics and mentoring honors students in their Senior theses at the O’Neill School. My work has been published by the National Council on Undergraduate Research and the Journal of Student Leadership.
+I am a PhD Candidate at the O’Neill School of Public and Environmental Affairs, Indiana University. My research examines the intersection of healthcare policy and public finance, with a focus on the unintended consequences of policies in healthcare settings, particularly in nursing homes. My dissertation explores the effects of federal, state, and federal-state partnership programs on healthcare quality in nursing homes, analyzing issues such as antipsychotic medication use reporting, racial and ethnic composition shifts in long-term care, and the impact of state subsidies on nursing home ownership and quality outcomes. I enjoy teaching economics and mentoring honors students in their senior theses at the O’Neill School. My work has been published by the National Council on Undergraduate Research and the Journal of Student Leadership.
 
 *I'm entering the job market this Fall, 2024.* 
 
