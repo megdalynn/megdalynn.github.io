@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="/files/MFisher_CV.pdf" download>Download here</a>
+<a href="/files/MFisher_CV.pdf" download>Download</a>
 <!--- <a href="(https://megdalynn.com/files/)" download="MFisher_CV.pdf">Download here</a>
 [Download](https://megdalynn.com/files/MFisher_CV.pdf) --->
 
