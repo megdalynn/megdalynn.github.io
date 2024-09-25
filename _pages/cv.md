@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <!--- <a href="(https://megdalynn.com/files/)" download="MFisher_CV.pdf">Download here</a>--->
-[Download here](https://megdalynn.com/files/MFisher_CV.pdf) 
+[Download](https://megdalynn.com/files/MFisher_CV.pdf) 
 
 ----
 **Megdalynn Fisher**  
