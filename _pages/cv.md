@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="files/MFisher_CV.pdf" download>Click to Download</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/megdalynn/github/files/MFisher_CV">Download FILE</a>
 <!--- [Download here](files/MFisher_CV.pdf) --->
 
 ----
