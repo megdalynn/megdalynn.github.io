@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="files/MFisher_CV.pdf" download>Click to Download</a>
 <!--- [Download here](files/MFisher_CV.pdf) --->
 
 ----
