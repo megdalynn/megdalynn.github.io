@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download here](files/MFisher_CV.pdf)
+<!--- [Download here](files/MFisher_CV.pdf) --->
 
 ----
 **Megdalynn Fisher**  
