@@ -180,6 +180,7 @@ Public Affairs
 GRADUATE	1/2024 – PRESENT
 #### Indiana University, Bloomington, IN
 >   * Project management and research mentoring for a team including three graduate students
+
 UNDERGRADUATE	3/2022 – PRESENT
 #### Indiana University, Bloomington, IN
 >   * Senior honors thesis advising including research design, technical support, and reviews for fourteen undergraduates.
