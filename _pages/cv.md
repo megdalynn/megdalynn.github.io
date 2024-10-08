@@ -184,7 +184,7 @@ GRADUATE	1/2024 – PRESENT
 UNDERGRADUATE	3/2022 – PRESENT
 #### Indiana University, Bloomington, IN
 >   * Senior honors thesis advising including research design, technical support, and reviews for fourteen undergraduates.
->   * 
+
 ---
 
 # Awards, Honors, and Fellowships
