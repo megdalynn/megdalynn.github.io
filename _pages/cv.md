@@ -73,7 +73,7 @@ CONFERENCES
   {% endfor %}</ul>
 
 INVITES
-#### Invited Presentation. "Government Intervention in Nursing Homes: Assessing Ownership Dynamics and Quality of Care Under Non-State Government Owned Supplemental Payment Programs." Ball State University, November 6, 2024.
+Invited Presentation. "Government Intervention in Nursing Homes: Assessing Ownership Dynamics and Quality of Care Under Non-State Government Owned Supplemental Payment Programs." Ball State University, November 6, 2024.
 ---
 
 # Research Experience
