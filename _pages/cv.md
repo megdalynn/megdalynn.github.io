@@ -66,12 +66,14 @@ megdalynn@outlook.com
 
 
 # Presentations  
+Conferences
   
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-
+Invites
+>  * Invited Presentation. "Government Intervention in Nursing Homes: Assessing Ownership Dynamics and Quality of Care Under Non-State Government Owned Supplemental Payment Programs." Ball State University, November 6, 2024.
 ---
 
 # Research Experience
