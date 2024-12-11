@@ -102,7 +102,7 @@ Seth Freedman and Victoria Perez, 8/2019 - 8/2021
 >     * Section 340B drug pricing program
 
 
-Jennifer Silva, 2/2022 - PRESENT  
+Jennifer Silva, 2/2022 - 8/2023  
 >  * Narrative analysis 
 >  * Assembly of qualitative patient interviews with electronic health records
 
