@@ -24,6 +24,7 @@ I am a PhD Candidate at the O’Neill School of Public and Environmental Affairs
 * Advisors: Rob Christensen, Rex Facer, Andrew Heiss
 
 ### Fellowships
+* [Roy W. Shin](https://oneill.indiana.edu/doctoral/cost-financial-aid/environmental-science.html), 2024 - 2025
 * [Irsay Institute](https://irsay.iu.edu/index.html), 2023 - 2024
 * [Agranoff](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/agranoff-robert.html), 2023 - 2024
 * [Rumsfeld Foundation](https://www.rumsfeldfoundation.org/public_service/graduate_fellowships), 2019 - 2021
