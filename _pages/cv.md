@@ -26,12 +26,12 @@ megdalynn@outlook.com
   O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN  
     [PhD Candidate profile]([(https://oneill.indiana.edu/doctoral/student-profiles/fisher-megdalynn.html)])  
 > #### Dissertation Committee: Kosali Simon (chair), Seth Freedman (co-chair), Justin Ross, Coady Wing, John R. Bowblis
-> * Dissertation: "Policy and Unintended Consequences in Healthcare Quality: The Case of Long-term Care"
+> Dissertation: "Policy and Unintended Consequences in Healthcare Quality: The Case of Long-term Care"
   
 ### MASTER OF PUBLIC ADMINISTRATION, 2019  
   Marriott School of Business, Brigham Young University (BYU), Provo, UT  
 > #### Advisors: Rob Christensen, Rex Facer, Andrew Heiss
-> * Capstone: "Enhancing healthcare transparency in Utah: Deriving a composite quality score for public use as a complement to the Total Cost of Care project"
+> Capstone: "Enhancing healthcare transparency in Utah: Deriving a composite quality score for public use as a complement to the Total Cost of Care project"
   
 ### B.S. Economics, 2017  
   Woodbury School of Business, Utah Valley University (UVU), Orem, UT  
