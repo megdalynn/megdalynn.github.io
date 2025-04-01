@@ -230,7 +230,11 @@ Public Affairs
   
   * Health Policy Workshop, Student Coordinator, 8/2020 - 8/2023  
   * O'Neill PhD Student Association President, Executive Board Member 2020 - present  
-  * Undergraduate Honors Thesis, healthcare panel chair, 4/29/2022, 4/28/2023, 4/26/2024  
+  * Conference Discussant, Panel Chair
+  *   Annual American Society of Health Economists Conference
+  *   Annual Association for Public Policy and Management Conference
+  *   Annual O'Neill PhD Student Association Conference
+  *   Bi-annual O'Neill School of Public and Environmental Affairs Undergraduate Honors Thesis Conference   
   * Economics Advisory Board member, Utah Valley University, 2021 - present  
   * Program Advisory Committee member, MPA at Brookline College, 2022 - 2023 
   * Diversity and Inclusion Commitee, Romney Institute of Public Service and Ethics, Brigham Young University,	12/2017 – 5/2019  
