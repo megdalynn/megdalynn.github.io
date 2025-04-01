@@ -39,15 +39,8 @@ megdalynn@outlook.com
 
 ----
 
-# Research Interests  
-* Public policy and health economics
-* Public Finance and health
-* Healthcare labor market 
-* Healthcare quality and services
-
-----
-
-# Work in Progress
+# Publications
+### Work in Progress
 
   <ul>{% for post in site.wip reversed %}
     {% include archive-single.html %}
@@ -55,7 +48,7 @@ megdalynn@outlook.com
 
 ----
 
-# Publications  
+### Peer Reviewed  
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -72,7 +65,7 @@ CONFERENCES
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-INVITES
+INVITED LECTURES AND SEMINARS
 
 #### "Bottleneck Lesson: Addressing Pre-requisite Knowledge Shortfalls." Invited presentation, Seminar in Teaching Public and Environmental Affairs, SPEA-M721, Indiana University, Spring 2025.
 
@@ -129,6 +122,14 @@ Mark Keith and Bill Taylor, 9/2017 - 5/2019
 
 ----
 
+# Research Interests  
+* Public policy and health economics
+* Public Finance and health
+* Healthcare labor market 
+* Healthcare quality and services
+
+----
+
 
 # Work Experience  
 
@@ -149,8 +150,13 @@ BOOKKEEPER, 8/2012 – 8/2017
 
 OFFICE MANAGER,	5/2012 – 8/2013  
 > ####    Anderson Wood Law, Salt Lake City, UT  
->   * Responsible for creating invoices, billing clients, filing documents, bookkeeping, and providing customer service.  
+>   * Responsible for creating invoices, billing clients, filing documents, bookkeeping, and providing customer service.
+>
 
+CO-EDITOR, COLUMNIST, 1/2008 - 8/2008
+> ####     Ross University School of Medicine Student Newsletter, Commonwealth of Dominica
+>   * Published and distributed the school's newsletter as part of a two-person team.
+>   * Increased readership by 24% and advertising accounts by 50%.
 
 ----
 
