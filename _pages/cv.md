@@ -198,15 +198,19 @@ UNDERGRADUATE	3/2022 – PRESENT
 ---
 
 # Awards, Honors, and Fellowships
-* Roy W. Shin PhD Fellowship, Indiana University, 2024 - 2025
+* [Roy W. Shin PhD Fellowship](https://oneill.indiana.edu/doctoral/cost-financial-aid/environmental-science.html), Indiana University, 2024 - 2025
+* Merit-Based Summer Fellowship, Paul H. O'Neill School, 2024
 * Robert Agranoff PhD Fellowship, Indiana University, 2023 - 2024
 * [Irsay Institute Fellowship](https://irsay.iu.edu/about/people/megdalynn-fisher/), Indiana University, 2023 - 2024
-* Graduate Fellowship, Rumsfeld Foundation, 2019 - 2021
+* Merit-Based Summer Fellowship, Paul H. O'Neill School, 2023
+* [Graduate Fellowship, Rumsfeld Foundation](https://www.rumsfeldfoundation.org/public_service/graduate_fellowships), 2019 - 2021
 * Stewart L. Grow Award, Brigham Young University, 2019
 * MPA Academic Award, Brigham Young University, 2019
-* Healthcare Industry Scholar, Brigham Young University, 2019
+* [Healthcare Industry Scholar](https://marriott.byu.edu/hlc/students/scholarship/), Brigham Young University, 2019
+* Mark W. Cannon Scholarship, Brigham Young University, 2019
 * Summa Cum Laude, Utah Valley University, 2017
 * Outstanding Student Award, Finance and Economics, Utah Valley University, 2017
+* [Professional Association of Campus Employees Scholarship](https://www.uvu.edu/give/employee-giving/pace-giving.html#:~:text=The%20PACE%20Student%20Scholarship%20is,students%20must%20be%20Utah%20residents.), Utah Valley University, 2017
 
 
 ----
