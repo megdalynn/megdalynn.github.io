@@ -78,6 +78,8 @@ INVITES
 
 #### "Government Intervention in Nursing Homes: Assessing Ownership Dynamics and Quality of Care Under Non-State Government Owned Supplemental Payment Programs." Invited presentation, Ball State University, November 6, 2024.
 
+#### "Hospitals: Market Competition." Invited lecture, Health Economics, SPEA-H 354, INdiana University, Fall 2022.
+
 #### "Bottleneck Lesson: Solving Market Demand and Supply Word Problems."  Invited presentation, Seminar in Teaching Public and Environmental Affairs, SPEA-M721, Indiana University, Spring 2022.
 
 ---
