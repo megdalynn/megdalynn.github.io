@@ -85,6 +85,7 @@ RESEARCH ASSISTANT 9/2017 - PRESENT
 
 
 Kosali Simon, 2/2022 - PRESENT  
+>  * Private equity investments in nursing homes and home health agencies
 >  * Racial segregation and nursing homes
 >  * Use of antipsychotic medications in the treatment of Alzheimer's disease and related dementias and serious mental illness
 >  * Formal disruptions to care in the nursing facility market
