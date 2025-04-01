@@ -119,6 +119,10 @@ Mark Keith and Bill Tayler, 9/2017 - 5/2019
 >     * Cost Transparency
 >     * Healthcare IT Vendors
 
+#### Utah Valley University, Orem, UT
+
+Andr&#233; Lu&#237;s Rossi de Oliveira, 10/2016 - 3/2017  
+>  * Evaluating early grade interventions programs, including mid-term notifications
 
 ----
 
