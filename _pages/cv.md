@@ -127,6 +127,17 @@ Andr&#233; Lu&#237;s Rossi de Oliveira, 10/2016 - 3/2017
 
 ----
 
+# Research Mentoring Experience
+GRADUATE	1/2024 – PRESENT
+#### Indiana University, Bloomington, IN
+>   * Project management and research mentoring for a team including three graduate students
+
+UNDERGRADUATE	3/2022 – PRESENT
+#### Indiana University, Bloomington, IN
+>   * Senior honors thesis advising, including research design, technical support, and reviews for fourteen undergraduates.
+
+----
+
 # Research Interests  
 * Public policy and health economics
 * Public Finance and health
@@ -134,7 +145,6 @@ Andr&#233; Lu&#237;s Rossi de Oliveira, 10/2016 - 3/2017
 * Healthcare quality and services
 
 ----
-
 
 # Work Experience  
 
@@ -196,17 +206,6 @@ Public Affairs
 >  * Data and Quantitative Analysis
 
 ----
-
-# Research Mentoring Experience
-GRADUATE	1/2024 – PRESENT
-#### Indiana University, Bloomington, IN
->   * Project management and research mentoring for a team including three graduate students
-
-UNDERGRADUATE	3/2022 – PRESENT
-#### Indiana University, Bloomington, IN
->   * Senior honors thesis advising including research design, technical support, and reviews for fourteen undergraduates.
-
----
 
 # Awards, Honors, and Fellowships
 * [Roy W. Shin PhD Fellowship](https://oneill.indiana.edu/doctoral/cost-financial-aid/environmental-science.html), Indiana University, 2024 - 2025
