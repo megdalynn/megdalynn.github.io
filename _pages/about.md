@@ -16,7 +16,7 @@ I am a PhD Candidate at the O’Neill School of Public and Environmental Affairs
 ### Graduate Education
 #### PhD Public Affairs - Indiana University, 2025 expected  
 * Dissertation: Policy and Unintended Consequences in Healthcare Quality: The Case of Long-term Care
-* Dissertation Committee: Kosali Simon (chair), Seth Freedman (co-chair), Justin Ross, and Coady Wing  
+* Dissertation Committee: Kosali Simon (chair), John R. Bowblis, Seth Freedman, Justin Ross, and Coady Wing  
 
 #### MPA - Brigham Young University, 2019  
 * Advisors: Rob Christensen, Rex Facer, Andrew Heiss
