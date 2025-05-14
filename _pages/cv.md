@@ -22,7 +22,7 @@ megdalynn@outlook.com
 
 
 # Education  
-### Ph.D. PUBLIC AFFAIRS, 2025 expected  
+### Ph.D. PUBLIC AFFAIRS, 2025   
   O'Neill School of Public and Environmental Affaris, Indiana University (IU), Bloomington, IN  
     [PhD Candidate profile]([(https://oneill.indiana.edu/doctoral/student-profiles/fisher-megdalynn.html)])  
 > #### Dissertation Committee: Kosali Simon (chair), Seth Freedman (co-chair), Justin Ross, Coady Wing, John R. Bowblis
