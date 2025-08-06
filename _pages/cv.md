@@ -14,9 +14,11 @@ redirect_from:
 [Download](https://megdalynn.com/files/MFisher_CV.pdf) --->
 
 ----
-**Megdalynn Fisher**  
-O'Neill School of Public and Envrionmental Affairs  
-1315 E. Tenth Street Bloomington, IN 47405-1701  
+**Megdalynn Fisher**
+Assistant Professor, Department of Public Policy and Administration
+Steven J. Green School of International and Public Affairs
+Florida International University
+11200 S.W. 8th Street, Miami, FL 33199  
 (678) 823-3128  
 megdalynn@outlook.com
 
