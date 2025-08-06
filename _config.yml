@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Megdalynn Fisher | PhD Candidate"
+title                    : "Megdalynn Fisher | Assistant Professor"
 title_separator          : "-"
-name                     : &name "Megdalynn Fisher, MPA"
-description              : &description "Policy analysis PhD Candidate from the O'Neill School of Public and Environmental Affairs"
+name                     : &name "Megdalynn Fisher, PhD, MPA"
+description              : &description "Assistant Professor, Florida International University"
 url                      : https://megdalynn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "megdalynn/megdalynn.github.io"
@@ -22,11 +22,11 @@ repository               : "megdalynn/megdalynn.github.io"
 author:
   # Biographic information
   avatar           : "Megdalynn_Fisher.jpg"
-  name             : "Megdalynn Fisher, MPA"
+  name             : "Megdalynn Fisher, PhD"
   pronouns         : "she/her"  
-  bio              : "PhD Candidate"
-  location         : "Bloomington, IN"
-  employer         : "Indiana University"
+  bio              : "Assistant Professor"
+  location         : "Miami, FL"
+  employer         : "Florida International University"
   uri              : # URL
   email            : "megdalynn@outlook.com" 
 
@@ -295,7 +295,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Indiana/Indianapolis # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
