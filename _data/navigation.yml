@@ -3,11 +3,11 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Work in Progress" 
-    url: /wip/ 
-
   - title: "Publications"
     url: /publications/
+
+  - title: "Work in Progress" 
+    url: /wip/ 
 
   - title: "Presentations"
     url: /talks/    
