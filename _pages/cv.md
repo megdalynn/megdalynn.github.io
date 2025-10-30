@@ -42,13 +42,6 @@ megdalynn[at]outlook.com
 ----
 
 # Publications
-### Work in Progress
-
-  <ul>{% for post in site.wip reversed %}
-    {% include archive-single.html %}
-  {% endfor %}</ul>
-
-----
 
 ### Peer Reviewed  
 
@@ -56,6 +49,12 @@ megdalynn[at]outlook.com
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+----
+### Work in Progress
+
+  <ul>{% for post in site.wip reversed %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
 
 ----
 
