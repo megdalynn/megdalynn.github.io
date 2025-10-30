@@ -6,7 +6,7 @@ author: Megdalynn Fisher, Madeline Mustaine, Kosali Simon, John R. Bowbliss
 excerpt: "We contribute to the literature measuring segregation in the health care setting by constructing dissimilarity indices (DI) for nursing homes and counties to examine relationships with income inequality, reliance on Medicaid, urbanicity, and quality."
 date: 2025-10-27
 venue: 'Journal of Aging & Social Policy, forthcoming'
-priority: 4
+priority: 1
 # paperurl: '<!---http://academicpages.github.io/files/nh-racial-sorting.pdf --->'
 citation: "Fisher, Megdalynn, Madeline Mustaine, Kosali Simon, John R. Bowblis. &quot;Racial, Demographic and Health Sorting Among Nursing Home Residents&quot; <i>Journal of Aging & Social Policy,</i> <i>forthcoming</i>."
 ---
