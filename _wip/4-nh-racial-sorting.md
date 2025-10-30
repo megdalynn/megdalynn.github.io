@@ -32,5 +32,5 @@ Dissimilarity Index (DI), Racial/Ethnic Segregation, Healthcare Disparities, Nur
 * **Setting-Specific Dynamics:** The Hispanic/white DI in nursing homes exceeds that in the broader community, whereas the opposite is true for BIPOC/white and Black/white comparisons, underscoring distinct dynamics in long-term care markets.
 * **Influence of Resident Characteristics:** Higher levels of segregation are found among older residents, those without ADRD/SMI, and residents with ADRD only—pointing to the significant role of demographic and health factors in shaping resident placement.
 * **Rising Intra-Group Segregation:** Despite overall declines, segregation by age, marital status, and ADRD/SMI status has increased over time across all racial/ethnic groups, signaling that future policies must address not only racial disparities but also intersecting demographic and health-related inequities in long-term care.
-* 
+
 <!--- [Download paper here](http://academicpages.github.io/files/nh-racial-sorting.pdf) --->
