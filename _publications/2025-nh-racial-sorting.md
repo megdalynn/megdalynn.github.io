@@ -1,7 +1,7 @@
 ---
 title: "Racial, Demographic and Health Sorting Among Nursing Home Residents"
-collection: wip
-permalink: /wip/4-nh-racial-sorting
+collection: publications
+permalink: /publications/2025-nh-racial-sorting
 author: Megdalynn Fisher, Madeline Mustaine, Kosali Simon, John R. Bowbliss
 excerpt: "We contribute to the literature measuring segregation in the health care setting by constructing dissimilarity indices (DI) for nursing homes and counties to examine relationships with income inequality, reliance on Medicaid, urbanicity, and quality."
 venue: 'forthcoming'
