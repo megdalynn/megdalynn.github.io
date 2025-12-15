@@ -14,5 +14,5 @@ Using longitudinal data and leveraging state-level policy variation, we estimate
 
 Recognizing the importance of intersectionality, this study highlights the compounded nature of disparities shaped by race, health, and social identities in long-term care settings. By linking state policy initiatives to measurable changes in racial integration, we underscore how policy design can mitigate structural inequities in nursing home care—or inadvertently exacerbate them. Our findings contribute to understanding how policy interventions can advance—or hinder—equity in nursing home care, offering critical insights for future reforms aimed at fostering a more inclusive long-term care system.
 
-Bowblis, John, Megdalynn Fisher, Lady Ikeya, and Kosali Simon “Racial Equity in Long-Term Care: Disentangling the Effects of Managed Long-Term Services and Supports, Medicaid Expansion, and the Balancing Incentive Program." Oral presentation, American Society of Health Economists (ASHEcon) Annual Conference, Nashville, TN, June 25, 2025.  
+Bowblis, John, Megdalynn Fisher, Lady Ikeya, and Kosali Simon, “Racial Equity in Long-Term Care: Disentangling the Effects of Managed Long-Term Services and Supports, Medicaid Expansion, and the Balancing Incentive Program." Oral presentation, American Society of Health Economists (ASHEcon) Annual Conference, Nashville, TN, June 25, 2025.  
 
