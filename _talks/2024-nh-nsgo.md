@@ -10,4 +10,4 @@ location: "San Diego, California"
 
 
 
-Fisher, Megdalynn "Government Intervention in Nursing Homes: Assessing Ownership Dynamics and Quality of Care Under Non-State Government Owned Supplemental Payment Programs" Oral presentation, ASHEcon, San Diego, California, June 19, 2024.  
+Fisher, Megdalynn. "Government Intervention in Nursing Homes: Assessing Ownership Dynamics and Quality of Care Under Non-State Government Owned Supplemental Payment Programs." Oral presentation, ASHEcon, San Diego, California, June 19, 2024.  
