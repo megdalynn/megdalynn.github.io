@@ -5,7 +5,7 @@ type: "Presentation"
 permalink: /talks/2026-talk-aspa
 venue: "American Society for Public Administration (ASPA) Annual Conference"
 date: 2026-03-21
-location: "Los Angeles, California"
+location: "Los Angeles, California (*expected*)"
 ---
 
 Medicaid supplemental payments are a vital but often opaque tool in financing long-
