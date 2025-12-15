@@ -14,4 +14,4 @@ This study examines how these policies have affected the composition of long-sta
 
 By examining the overlapping impacts of Medicaid Expansion and the BIP, this study fills a critical gap in the literature and offers insight into the evolving dynamics of long-term care under federal and state policies.
 
-Bowblis, John, Megdalynn Fisher, Lady Ikeya, and Kosali Simon, “Balancing Incentives Meets Medicaid Expansion: Reshaping Long-Term Care Populations." Oral presentation, Association for Public Policy Analysts and Management (APPAM) Annual Conference, Seattle, WA, November 15, 2025.  
+Bowblis, John, Megdalynn Fisher, Lady Ikeya, and Kosali Simon. “Balancing Incentives Meets Medicaid Expansion: Reshaping Long-Term Care Populations." Oral presentation, Association for Public Policy Analysts and Management (APPAM) Annual Conference, Seattle, WA, November 15, 2025.  
