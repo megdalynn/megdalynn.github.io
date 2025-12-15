@@ -29,6 +29,6 @@ livery, this research underscores the need for policies that balance fiscal inno
 accountability and long-term resilience in public services.
 
 
-Megdalynn Fisher, “Local Government Nursing Homes: Incentives, Quality, and Sustainability." Oral presentation, American Society for Public Administration (ASPA) Annual Conference, Los Angeles, CA, March 2026 [*expected*].  
+Megdalynn Fisher. “Local Government Nursing Homes: Incentives, Quality, and Sustainability." Oral presentation, American Society for Public Administration (ASPA) Annual Conference, Los Angeles, CA, March 2026 [*expected*].  
 
 
