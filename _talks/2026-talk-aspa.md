@@ -8,11 +8,26 @@ date: 2026-03-21
 location: "Los Angeles, California"
 ---
 
-Policies such as the Balancing Incentive Program (BIP), Managed Long-Term Services and Supports (MLTSS), and Medicaid Expansion have fundamentally reshaped the long-term care landscape in the United States. However, the effects of these policies on racial composition and segregation in nursing homes are not yet well understood. This study evaluates the individual and combined impacts of these policies on the racial demographics of long-stay nursing home residents, with a particular focus on trends in racial segregation, measured by the dissimilarity index. The dissimilarity index quantifies the extent of segregation between two groups, ranging from 0 (complete integration) to 100 (complete segregation), and represents the percentage of individuals from one group who would need to move to achieve an even distribution.
+Medicaid supplemental payments are a vital but often opaque tool in financing long-
+term care, designed to stabilize providers and ensure access for low-income populations.
+Yet these payments also create powerful incentives that shape ownership and governance
+decisions. This paper examines the growing trend of nursing homes converting to
+local government ownership as a strategy to capture supplemental payments. Using
+national nursing home data linked to ownership status and quality indicators, I find
+evidence of a selection effect: facilities with poorer quality (measured by higher rates
+of on-site inspection deficiencies) are disproportionately those that transition into local
+government ownership.
 
-Using longitudinal data and leveraging state-level policy variation, we estimate changes in the distribution of Black, Hispanic, and white long-stay nursing home residents and explore how these shifts intersect with other demographic and health factors. Our results show that participation in MLTSS reduces estimates of segregation (measured by the dissimilarity index) among Black long-stay residents at the county level by 1.8 (95\% CI: 1.3 to 2.2) index points, a meaningful change given that county-level segregation indices often range between 20 and 40 in nursing home markets. These reductions were observed while controlling for other community characteristics, including Medicaid reliance, resident age, variance in nursing home quality ratings, unemployment rates, political ideology, and the county’s social vulnerability index.
+While this strategy may generate short-term financial benefits, it raises concerns
+about long-term sustainability. If federal or state policymakers curtail supplemental
+payments, local governments may be left bearing new fiscal liabilities, and vulnerable
+residents may face disruptions in care. These findings highlight an underexplored di-
+mension of fiscal federalism: how intergovernmental transfers and financing flexibility
+can create moral hazard, shifting risk to local governments while failing to improve care
+quality. By connecting Medicaid financing to governance, sustainability, and service de-
+livery, this research underscores the need for policies that balance fiscal innovation with
+accountability and long-term resilience in public services.
 
-Recognizing the importance of intersectionality, this study highlights the compounded nature of disparities shaped by race, health, and social identities in long-term care settings. By linking state policy initiatives to measurable changes in racial integration, we underscore how policy design can mitigate structural inequities in nursing home care—or inadvertently exacerbate them. Our findings contribute to understanding how policy interventions can advance—or hinder—equity in nursing home care, offering critical insights for future reforms aimed at fostering a more inclusive long-term care system.
 
 Megdalynn Fisher, “Local Government Nursing Homes: Incentives, Quality, and Sustainability." Oral presentation, American Society for Public Administration (ASPA) Annual Conference, Los Angeles, CA, March 2026 [*expected*].  
 
